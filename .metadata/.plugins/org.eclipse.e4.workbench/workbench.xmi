@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="ASCII"?>
+<application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_bx5usdxPEeSX--wpJ-qMuw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_bx5ustxPEeSX--wpJ-qMuw" bindingContexts="_bx5utNxPEeSX--wpJ-qMuw">
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList/>&#xD;&#xA;&lt;/workbench>"/>
+  <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
+  <tags>ModelMigrationProcessor.001</tags>
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_bx5ustxPEeSX--wpJ-qMuw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_b7gWotxPEeSX--wpJ-qMuw" label="%trimmedwindow.label.eclipseSDK" x="182" y="182" width="1200" height="912">
+    <persistedState key="coolBarVisible" value="true"/>
+    <persistedState key="perspectiveBarVisible" value="true"/>
+    <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
+    <persistedState key="aggregateWorkingSetId"/>
+    <tags>topLevel</tags>
+    <children xsi:type="basic:PartSashContainer" xmi:id="_b7gWotxPEeSX--wpJ-qMuw" selectedElement="_b7gWo9xPEeSX--wpJ-qMuw" horizontal="true">
+      <children xsi:type="advanced:PerspectiveStack" xmi:id="_b7gWo9xPEeSX--wpJ-qMuw" containerData="7500" selectedElement="_cBJEkNxPEeSX--wpJ-qMuw">
+        <children xsi:type="advanced:Perspective" xmi:id="_cBJEkNxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.ui.StudioPerspective" selectedElement="_cBJEkdxPEeSX--wpJ-qMuw" label="Studio" iconURI="platform:/plugin/com.appcelerator.titanium.ui/icons/studio_perspective_16.png">
+          <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:group.file,persp.hideToolbarSC:org.eclipse.ui.workbench.file,persp.hideToolbarSC:org.eclipse.ui.file,persp.hideToolbarSC:new.group,persp.hideToolbarSC:newWizardDropDown,persp.hideToolbarSC:save.group,persp.hideToolbarSC:org.eclipse.ui.file.save,persp.hideToolbarSC:org.eclipse.ui.file.saveAll,persp.hideToolbarSC:print,persp.hideToolbarSC:build.group,persp.hideToolbarSC:breakpointGroup,persp.hideToolbarSC:org.eclipse.debug.ui.actions.SkipAllBreakpoints,persp.hideToolbarSC:org.eclipse.debug.ui.commands.SkipAllBreakpoints,persp.hideToolbarSC:org.eclipse.debug.internal.ui.actions.breakpoints.SkipAllBreakpointsAction,persp.hideToolbarSC:debug,persp.hideToolbarSC:com.aptana.js.debug.ui.actions.openURL,persp.hideToolbarSC:com.aptana.js.debug.ui.actions.ToggleBreakpoint,persp.hideToolbarSC:org.eclipse.debug.internal.ui.actions.DebugDropDownAction,persp.hideToolbarSC:org.eclipse.debug.internal.ui.actions.RunDropDownAction,persp.hideToolbarSC:org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar,persp.hideToolbarSC:org.eclipse.debug.internal.ui.actions.ProfileDropDownAction,persp.hideToolbarSC:com.appcelerator.titanium.360.ui.command.test.pulldown,persp.hideToolbarSC:org.eclipse.ui.workbench.navigate,persp.hideToolbarSC:Search,persp.hideToolbarSC:org.eclipse.search.OpenSearchDialogPage,persp.hideToolbarSC:Presentation,persp.hideToolbarSC:com.aptana.editor.common.toggleMarkOccurrences,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleBlockSelectionMode,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowWhitespaceCharacters,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,persp.hideToolbarSC:com.aptana.portal.ui.command.openStartPage,persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,"/>
+          <tags>persp.actionSet:com.aptana.browser.actionSet</tags>
+          <tags>persp.actionSet:org.chromium.debug.ui.actionSets</tags>
+          <tags>persp.actionSet:org.eclipse.ui.cheatsheets.actionSet</tags>
+          <tags>persp.actionSet:org.eclipse.search.searchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.annotationNavigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.navigation</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo</tags>
+          <tags>persp.actionSet:org.eclipse.ui.externaltools.ExternalToolsSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.actionSet.keyBindings</tags>
+          <tags>persp.actionSet:org.eclipse.ui.actionSet.openFiles</tags>
+          <tags>persp.newWizSC:com.aptana.ui.wizards.NewNodeJSProject</tags>
+          <tags>persp.viewSC:com.aptana.explorer.view</tags>
+          <tags>persp.viewSC:org.eclipse.ui.navigator.ProjectExplorer</tags>
+          <tags>persp.viewSC:org.eclipse.ui.views.ContentOutline</tags>
+          <tags>persp.newWizSC:com.aptana.ui.wizards.new.file</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.wizards.new.folder</tags>
+          <tags>persp.newWizSC:org.eclipse.ui.editors.wizards.UntitledTextFileWizard</tags>
+          <tags>persp.showIn:org.eclipse.ui.navigator.ProjectExplorer</tags>
+          <tags>persp.actionSet:org.eclipse.ui.NavigateActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.ui.edit.text.actionSet.presentation</tags>
+          <tags>persp.actionSet:com.aptana.ui.globalActionSet</tags>
+          <tags>persp.actionSet:com.aptana.terminal.actionSet</tags>
+          <tags>persp.actionSet:com.aptana.editor.common.presentation</tags>
+          <tags>persp.perspSC:org.eclipse.debug.ui.DebugPerspective</tags>
+          <tags>persp.perspSC:com.aptana.ui.WebPerspective</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.launchActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.debug.ui.breakpointActionSet</tags>
+          <tags>persp.actionSet:com.aptana.js.debug.ui.actionSet</tags>
+          <tags>persp.newWizSC:com.appcelerator.titanium.mobile.project_wizard</tags>
+          <tags>persp.newWizSC:com.appcelerator.titanium.mobile.module.wizard</tags>
+          <children xsi:type="basic:PartSashContainer" xmi:id="_cBJEkdxPEeSX--wpJ-qMuw" selectedElement="_cBJEktxPEeSX--wpJ-qMuw" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_cBJEktxPEeSX--wpJ-qMuw" containerData="2000" selectedElement="_cBJEk9xPEeSX--wpJ-qMuw">
+              <children xsi:type="basic:PartStack" xmi:id="_cBJEk9xPEeSX--wpJ-qMuw" elementId="leftArea" containerData="7500" selectedElement="_cBJEltxPEeSX--wpJ-qMuw">
+                <tags>newtablook</tags>
+                <tags>active</tags>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJElNxPEeSX--wpJ-qMuw" elementId="com.aptana.explorer.view" toBeRendered="false" ref="_cBGoUNxPEeSX--wpJ-qMuw"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJEldxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.io.remoteview" toBeRendered="false" ref="_cBGoUdxPEeSX--wpJ-qMuw"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJEltxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_cBFaMNxPEeSX--wpJ-qMuw"/>
+              </children>
+              <children xsi:type="basic:PartStack" xmi:id="_cBJEl9xPEeSX--wpJ-qMuw" elementId="bottomLeft" containerData="2500" selectedElement="_cBJEmNxPEeSX--wpJ-qMuw">
+                <tags>newtablook</tags>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJEmNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.ContentOutline" ref="_cBGoUtxPEeSX--wpJ-qMuw"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJEmdxPEeSX--wpJ-qMuw" elementId="com.aptana.samples.ui.SamplesView" toBeRendered="false" ref="_cBHPYNxPEeSX--wpJ-qMuw"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJEmtxPEeSX--wpJ-qMuw" elementId="com.aptana.snippets.ui.views.SnippetsView" toBeRendered="false" ref="_cBHPYdxPEeSX--wpJ-qMuw"/>
+              </children>
+            </children>
+            <children xsi:type="basic:PartSashContainer" xmi:id="_cBJEm9xPEeSX--wpJ-qMuw" containerData="8000" selectedElement="_cBJEnNxPEeSX--wpJ-qMuw">
+              <children xsi:type="advanced:Placeholder" xmi:id="_cBJEnNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_cA_TkNxPEeSX--wpJ-qMuw"/>
+              <children xsi:type="basic:PartStack" xmi:id="_cBJEndxPEeSX--wpJ-qMuw" elementId="terminalArea" toBeRendered="false" containerData="2500">
+                <tags>newtablook</tags>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJEntxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.console.ConsoleView" toBeRendered="false" ref="_cBHPYtxPEeSX--wpJ-qMuw"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJEn9xPEeSX--wpJ-qMuw" elementId="com.aptana.terminal.views.terminal:*" toBeRendered="false" ref="_cBHPY9xPEeSX--wpJ-qMuw"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJEoNxPEeSX--wpJ-qMuw" elementId="com.aptana.terminal.views.terminal" toBeRendered="false" ref="_cBIdgNxPEeSX--wpJ-qMuw"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJEodxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.ProblemView" toBeRendered="false" ref="_cBIdgdxPEeSX--wpJ-qMuw"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJEotxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.TaskList" toBeRendered="false" ref="_cBIdgtxPEeSX--wpJ-qMuw"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJEo9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.ProgressView" toBeRendered="false" ref="_cBIdg9xPEeSX--wpJ-qMuw"/>
+                <children xsi:type="advanced:Placeholder" xmi:id="_cBJEpNxPEeSX--wpJ-qMuw" elementId="com.aptana.webserver.ui.view" toBeRendered="false" ref="_cBIdhNxPEeSX--wpJ-qMuw"/>
+              </children>
+            </children>
+          </children>
+        </children>
+      </children>
+      <children xsi:type="basic:PartStack" xmi:id="_b7gWpNxPEeSX--wpJ-qMuw" elementId="stickyFolderRight" toBeRendered="false" containerData="2500">
+        <children xsi:type="advanced:Placeholder" xmi:id="_b7gWpdxPEeSX--wpJ-qMuw" elementId="org.eclipse.help.ui.HelpView" toBeRendered="false" ref="_b7fIgNxPEeSX--wpJ-qMuw"/>
+        <children xsi:type="advanced:Placeholder" xmi:id="_b7gWptxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.internal.introview" toBeRendered="false" ref="_b7gWoNxPEeSX--wpJ-qMuw"/>
+        <children xsi:type="advanced:Placeholder" xmi:id="_b7gWp9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" toBeRendered="false" ref="_b7gWodxPEeSX--wpJ-qMuw"/>
+      </children>
+    </children>
+    <sharedElements xsi:type="basic:Part" xmi:id="_b7fIgNxPEeSX--wpJ-qMuw" elementId="org.eclipse.help.ui.HelpView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Help" iconURI="platform:/plugin/org.eclipse.help.ui/icons/view16/help_view.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Help</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_b7gWoNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.internal.introview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Welcome" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_b7gWodxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Cheat Sheets" iconURI="platform:/plugin/org.eclipse.ui.cheatsheets/icons/view16/cheatsheet_view.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Help</tags>
+    </sharedElements>
+    <sharedElements xsi:type="advanced:Area" xmi:id="_cA_TkNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.editorss" selectedElement="_cA_TkdxPEeSX--wpJ-qMuw">
+      <children xsi:type="basic:PartStack" xmi:id="_cA_TkdxPEeSX--wpJ-qMuw" elementId="org.eclipse.e4.primaryDataStack">
+        <tags>newtablook</tags>
+        <tags>org.eclipse.e4.primaryDataStack</tags>
+        <tags>EditorStack</tags>
+      </children>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBFaMNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.gif" tooltip="Workspace" closeable="true">
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
+      <menus xmi:id="_cCoSUNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigator.ProjectExplorer">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_cCoSUdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigator.ProjectExplorer" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBGoUNxPEeSX--wpJ-qMuw" elementId="com.aptana.explorer.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="App Explorer" iconURI="platform:/plugin/com.aptana.explorer/icons/full/cview16/filenav_nav.png" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Studio</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBGoUdxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.io.remoteview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Remote" iconURI="platform:/plugin/com.aptana.ui.io/icons/full/eview16/remote.png" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Studio</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBGoUtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.ContentOutline" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Outline" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/outline_co.gif" tooltip="" closeable="true">
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+      <menus xmi:id="_cEescNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.ContentOutline">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_cEescdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.ContentOutline" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBHPYNxPEeSX--wpJ-qMuw" elementId="com.aptana.samples.ui.SamplesView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Samples" iconURI="platform:/plugin/com.aptana.samples.ui/icons/samples.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Studio</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBHPYdxPEeSX--wpJ-qMuw" elementId="com.aptana.snippets.ui.views.SnippetsView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Snippets" iconURI="platform:/plugin/com.aptana.scripting.ui/icons/snippet.png" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Studio</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBHPYtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.console.ConsoleView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Console" iconURI="platform:/plugin/org.eclipse.ui.console/icons/full/cview16/console_view.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBHPY9xPEeSX--wpJ-qMuw" elementId="com.aptana.terminal.views.terminal:*" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Terminal" iconURI="platform:/plugin/com.aptana.terminal/icons/terminal.png" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Studio</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBIdgNxPEeSX--wpJ-qMuw" elementId="com.aptana.terminal.views.terminal" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Terminal" iconURI="platform:/plugin/com.aptana.terminal/icons/terminal.png" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Studio</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBIdgdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.ProblemView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBIdgtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.TaskList" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Tasks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/tasks_tsk.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBIdg9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.ProgressView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Progress" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/pview.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_cBIdhNxPEeSX--wpJ-qMuw" elementId="com.aptana.webserver.ui.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Servers" iconURI="platform:/plugin/com.aptana.webserver.ui/icons/obj16/server.png" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Studio</tags>
+    </sharedElements>
+    <trimBars xmi:id="_b7koENxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.main.toolbar">
+      <children xsi:type="menu:ToolBar" xmi:id="_b9sH8NxPEeSX--wpJ-qMuw" elementId="group.file" toBeRendered="false">
+        <tags>toolbarSeparator</tags>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_b9sH8dxPEeSX--wpJ-qMuw" elementId="group.file" toBeRendered="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_b9svANxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.workbench.file">
+        <tags>Draggable</tags>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9ukMNxPEeSX--wpJ-qMuw" elementId="new.group"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9ukMdxPEeSX--wpJ-qMuw" elementId="newWizardDropDown"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9ukMtxPEeSX--wpJ-qMuw" elementId="new.ext" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9ukM9xPEeSX--wpJ-qMuw" elementId="save.group" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9ukNNxPEeSX--wpJ-qMuw" elementId="save"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9ukNdxPEeSX--wpJ-qMuw" elementId="saveAll"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9ukNtxPEeSX--wpJ-qMuw" elementId="save.ext" visible="false"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_b9vLQNxPEeSX--wpJ-qMuw" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.gif" tooltip="Print" enabled="false" command="_bySwYtxPEeSX--wpJ-qMuw"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9xngNxPEeSX--wpJ-qMuw" elementId="print.ext" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9xngdxPEeSX--wpJ-qMuw" elementId="build.group"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9yOkNxPEeSX--wpJ-qMuw" elementId="build.ext" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9yOkdxPEeSX--wpJ-qMuw" elementId="additions"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_b9svAdxPEeSX--wpJ-qMuw" elementId="additions" toBeRendered="false">
+        <tags>toolbarSeparator</tags>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_b9svAtxPEeSX--wpJ-qMuw" elementId="additions" toBeRendered="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_cBvhgNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.launchActionSet">
+        <tags>Draggable</tags>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB3dUNxPEeSX--wpJ-qMuw" elementId="debug"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB3dUdxPEeSX--wpJ-qMuw" elementId="com.aptana.js.debug.ui.actions.openURL"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB7HsNxPEeSX--wpJ-qMuw" elementId="com.aptana.js.debug.ui.actions.ToggleBreakpoint"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB7HsdxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.internal.ui.actions.DebugDropDownAction"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB7uwNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.internal.ui.actions.RunDropDownAction"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB7uwdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_cBlwgNxPEeSX--wpJ-qMuw" elementId="org.eclipse.search.searchActionSet">
+        <tags>Draggable</tags>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB8V0dxPEeSX--wpJ-qMuw" elementId="Search"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB8V0txPEeSX--wpJ-qMuw" elementId="org.eclipse.search.OpenSearchDialogPage"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_cBitMNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
+        <tags>Draggable</tags>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB884NxPEeSX--wpJ-qMuw" elementId="Presentation"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB884dxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.common.toggleMarkOccurrences"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB9j8NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.toggleBlockSelectionMode"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB9j8dxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.toggleShowWhitespaceCharacters"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB-LANxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_b9svA9xPEeSX--wpJ-qMuw" elementId="group.nav" toBeRendered="false">
+        <tags>toolbarSeparator</tags>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_b9svBNxPEeSX--wpJ-qMuw" elementId="group.nav" toBeRendered="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_b9tWENxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.workbench.navigate">
+        <tags>Draggable</tags>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9yOktxPEeSX--wpJ-qMuw" elementId="history.group"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9yOk9xPEeSX--wpJ-qMuw" elementId="group.application" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9yOlNxPEeSX--wpJ-qMuw" elementId="backardHistory"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9yOldxPEeSX--wpJ-qMuw" elementId="forwardHistory"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9yOltxPEeSX--wpJ-qMuw" elementId="pin.group"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_b9yOl9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.gif" tooltip="Pin Editor" enabled="false" command="_byRiSdxPEeSX--wpJ-qMuw"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB-LAdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.gotoNextAnnotation"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB-yENxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.gotoPreviousAnnotation"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_cB-yEdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_b9tWEdxPEeSX--wpJ-qMuw" elementId="group.editor" toBeRendered="false">
+        <tags>toolbarSeparator</tags>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_b9tWEtxPEeSX--wpJ-qMuw" elementId="group.editor" toBeRendered="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_b9tWE9xPEeSX--wpJ-qMuw" elementId="group.help" toBeRendered="false">
+        <tags>toolbarSeparator</tags>
+        <children xsi:type="menu:ToolBarSeparator" xmi:id="_b9tWFNxPEeSX--wpJ-qMuw" elementId="group.help" toBeRendered="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_b9tWFdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.workbench.help">
+        <tags>Draggable</tags>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9y1oNxPEeSX--wpJ-qMuw" elementId="group.help"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_b9y1odxPEeSX--wpJ-qMuw" elementId="group.application" visible="false"/>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_b_bNUNxPEeSX--wpJ-qMuw" elementId="PerspectiveSpacer" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+        <tags>stretch</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_b_b0YNxPEeSX--wpJ-qMuw" elementId="Spacer Glue" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+        <tags>glue</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_b_cbcNxPEeSX--wpJ-qMuw" elementId="SearchField" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField"/>
+      <children xsi:type="menu:ToolControl" xmi:id="_b_wkgNxPEeSX--wpJ-qMuw" elementId="Search-PS Glue" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+        <tags>glue</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_b_xLkNxPEeSX--wpJ-qMuw" elementId="PerspectiveSwitcher" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.e4.ui.workbench.addons.perspectiveswitcher.PerspectiveSwitcher">
+        <tags>Draggable</tags>
+      </children>
+    </trimBars>
+    <trimBars xmi:id="_b_3SMNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.trim.status" side="Bottom">
+      <children xsi:type="menu:ToolControl" xmi:id="_cAAcINxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.StatusLine" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim">
+        <tags>stretch</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_cAF7sNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.HeapStatus" toBeRendered="false" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim"/>
+      <children xsi:type="menu:ToolControl" xmi:id="_cAPFoNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.ProgressBar" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim">
+        <tags>Draggable</tags>
+      </children>
+    </trimBars>
+    <trimBars xmi:id="_cAiAkNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.trim.vertical1" side="Left"/>
+    <trimBars xmi:id="_cAiAkdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.trim.vertical2" side="Right"/>
+  </children>
+  <bindingTables xmi:id="_bx5us9xPEeSX--wpJ-qMuw" contributorURI="platform:/plugin/org.eclipse.ui.workbench" bindingContext="_bx5utNxPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_byuOENxPEeSX--wpJ-qMuw" keySequence="CTRL+A" command="_byTXjdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byuOFdxPEeSX--wpJ-qMuw" keySequence="CTRL+SPACE" command="_bySJUtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byuOF9xPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+SPACE" command="_bySJQdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byu1KNxPEeSX--wpJ-qMuw" keySequence="CTRL+F10" command="_byQUDtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDT9xPEeSX--wpJ-qMuw" keySequence="SHIFT+INSERT" command="_byPtEdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byx4ctxPEeSX--wpJ-qMuw" keySequence="CTRL+V" command="_byPtEdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byx4d9xPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+F3" command="_bySwa9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byyfhtxPEeSX--wpJ-qMuw" keySequence="CTRL+C" command="_byPF8NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byyfh9xPEeSX--wpJ-qMuw" keySequence="ALT+PAGE_UP" command="_byT-k9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byzGkNxPEeSX--wpJ-qMuw" keySequence="ALT+PAGE_DOWN" command="_byQ7MNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byztotxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+L" command="_byTXb9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by1i1txPEeSX--wpJ-qMuw" keySequence="CTRL+Z" command="_bySwRtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J6dxPEeSX--wpJ-qMuw" keySequence="CTRL+INSERT" command="_byPF8NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w99xPEeSX--wpJ-qMuw" keySequence="CTRL+X" command="_bySwUtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w-txPEeSX--wpJ-qMuw" keySequence="CTRL+1" command="_byRiRdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w_9xPEeSX--wpJ-qMuw" keySequence="CTRL+Y" command="_byT-iNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YCtxPEeSX--wpJ-qMuw" keySequence="SHIFT+DEL" command="_bySwUtxPEeSX--wpJ-qMuw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_byqjsNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.textEditorScope" bindingContext="_byWaotxPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_bys_8NxPEeSX--wpJ-qMuw" keySequence="CTRL+ARROW_DOWN" command="_byUle9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bytnB9xPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+ARROW_LEFT" command="_byTXeNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byuOEdxPEeSX--wpJ-qMuw" keySequence="CTRL+ARROW_UP" command="_byQ7FtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byuOEtxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+ARROW_UP" command="_byT-c9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byuOE9xPEeSX--wpJ-qMuw" keySequence="ALT+ARROW_DOWN" command="_byQ7OdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byuOFtxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+DEL" command="_bySJVtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byuOGNxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+A" command="_byPtCtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byuOGdxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+CR" command="_bySwadxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byu1KdxPEeSX--wpJ-qMuw" keySequence="CTRL+F10" command="_bySwZtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byvcOtxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+Y" command="_byTXcNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDRNxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+ARROW_RIGHT" command="_byQ7O9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDUNxPEeSX--wpJ-qMuw" keySequence="CTRL+BS" command="_byPF6NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywqUNxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+J" command="_byRiQNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywqUdxPEeSX--wpJ-qMuw" keySequence="CTRL+END" command="_byQ7PtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywqUtxPEeSX--wpJ-qMuw" keySequence="SHIFT+END" command="_byTXdNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywqU9xPEeSX--wpJ-qMuw" keySequence="CTRL+HOME" command="_byPtENxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywqVNxPEeSX--wpJ-qMuw" keySequence="SHIFT+HOME" command="_byTXZdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywqV9xPEeSX--wpJ-qMuw" keySequence="CTRL+NUMPAD_DIVIDE" command="_byQ7GdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byxRZ9xPEeSX--wpJ-qMuw" keySequence="CTRL+L" command="_bySJZdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byxRaNxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+X" command="_byPs9dxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byx4cdxPEeSX--wpJ-qMuw" keySequence="INSERT" command="_byQUCtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byx4c9xPEeSX--wpJ-qMuw" keySequence="HOME" command="_byTXdtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byx4edxPEeSX--wpJ-qMuw" keySequence="ALT+/" command="_byTXe9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byyfgNxPEeSX--wpJ-qMuw" keySequence="END" command="_byTXWtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byyfiNxPEeSX--wpJ-qMuw" keySequence="CTRL+ARROW_LEFT" command="_byPF6dxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byyfidxPEeSX--wpJ-qMuw" keySequence="CTRL+ARROW_RIGHT" command="_byRiLNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byyfjNxPEeSX--wpJ-qMuw" keySequence="CTRL+D" command="_byQUItxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byzGlNxPEeSX--wpJ-qMuw" keySequence="F2" command="_byRiTdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byzGmdxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+R" command="_bySwQtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by0Us9xPEeSX--wpJ-qMuw" keySequence="CTRL+K" command="_byQ7JdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by0UtdxPEeSX--wpJ-qMuw" keySequence="SHIFT+CR" command="_byTXddxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by0UuNxPEeSX--wpJ-qMuw" keySequence="CTRL+NUMPAD_MULTIPLY" command="_byRiMdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by0UutxPEeSX--wpJ-qMuw" keySequence="CTRL+NUMPAD_SUBTRACT" command="_bySwaNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by07wtxPEeSX--wpJ-qMuw" keySequence="CTRL+J" command="_byQUFtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by1i09xPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+K" command="_byQ7EtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by1i3dxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+Q" command="_byRiMtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J6NxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+NUMPAD_MULTIPLY" command="_byRiPdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J7NxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+J" command="_byRiI9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J7dxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+INSERT" command="_byQ7M9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J79xPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+NUMPAD_DIVIDE" command="_byQUC9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YA9xPEeSX--wpJ-qMuw" keySequence="CTRL+NUMPAD_ADD" command="_byT-YtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YCNxPEeSX--wpJ-qMuw" keySequence="ALT+ARROW_UP" command="_byT-ktxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YCdxPEeSX--wpJ-qMuw" keySequence="CTRL+DEL" command="_bySwQdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YDNxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+ARROW_DOWN" command="_byT-ZdxPEeSX--wpJ-qMuw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_bytnANxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.contexts.window" bindingContext="_bx5utdxPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_bytnAdxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+C" command="_byT-btxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bytnBNxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+D" command="_byRiRtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bytnBdxPEeSX--wpJ-qMuw" keySequence="ALT+ARROW_RIGHT" command="_bySwatxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bytnBtxPEeSX--wpJ-qMuw" keySequence="CTRL+B" command="_byPtGdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bytnCNxPEeSX--wpJ-qMuw" keySequence="ALT+ARROW_LEFT" command="_byQUE9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byuOGtxPEeSX--wpJ-qMuw" keySequence="CTRL+Q" command="_bySwcdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byu1KtxPEeSX--wpJ-qMuw" keySequence="ALT+-" command="_byPs_txPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byvcMdxPEeSX--wpJ-qMuw" keySequence="CTRL+." command="_byT-d9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byvcONxPEeSX--wpJ-qMuw" keySequence="CTRL+N" command="_byT-i9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byvcOdxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+Y" command="_byQ7MtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byvcO9xPEeSX--wpJ-qMuw" keySequence="CTRL+F8" command="_byRiSNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDQ9xPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+D" command="_byQUAdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDRdxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+E" command="_byQ7LdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDRtxPEeSX--wpJ-qMuw" keySequence="CTRL+E" command="_bySJY9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDSNxPEeSX--wpJ-qMuw" keySequence="CTRL+F" command="_byQULtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDTdxPEeSX--wpJ-qMuw" keySequence="CTRL+H" command="_bySJUdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDTtxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+G" command="_byQUO9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byxRYNxPEeSX--wpJ-qMuw" keySequence="CTRL+T" command="_byUlfdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byxRYtxPEeSX--wpJ-qMuw" keySequence="CTRL+P" command="_bySwYtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byxRatxPEeSX--wpJ-qMuw" keySequence="ALT+F7" command="_byPtEtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byx4cNxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+R" command="_byUlfdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byx4dNxPEeSX--wpJ-qMuw" keySequence="CTRL+S" command="_byTXcdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byx4ddxPEeSX--wpJ-qMuw" keySequence="DEL" command="_byQUOdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byx4dtxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+F8" command="_bySJQ9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byx4eNxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+F4" command="_bySwUdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byzGk9xPEeSX--wpJ-qMuw" keySequence="F2" command="_byPtF9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byzGldxPEeSX--wpJ-qMuw" keySequence="CTRL+," command="_byPtFdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byzGl9xPEeSX--wpJ-qMuw" keySequence="F12" command="_bySJVNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byztoNxPEeSX--wpJ-qMuw" keySequence="CTRL+F7" command="_byPF8dxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byztodxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+L" command="_byT-ZtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byztptxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+S" command="_byQUJtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byztp9xPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+V" command="_byPtHdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by0UsNxPEeSX--wpJ-qMuw" keySequence="CTRL+F4" command="_byT-jtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by0UsdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+F7" command="_byQ7QNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by0Ut9xPEeSX--wpJ-qMuw" keySequence="ALT+CR" command="_bySJN9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by0UudxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+F7" command="_byTXitxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by07wNxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+W" command="_byT-ctxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by07xNxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+U" command="_bySJNNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by07xtxPEeSX--wpJ-qMuw" keySequence="F5" command="_byTXW9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by07x9xPEeSX--wpJ-qMuw" keySequence="CTRL+F6" command="_byQUNdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by07yNxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+N" command="_bySwTNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by1i0NxPEeSX--wpJ-qMuw" keySequence="SHIFT+F5" command="_byT-a9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by1i19xPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+F6" command="_byQULNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by1i3NxPEeSX--wpJ-qMuw" keySequence="CTRL+F11" command="_byTXYNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J49xPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+TAB" command="_byQ7FNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J5NxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+I" command="_byTXXdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J5txPEeSX--wpJ-qMuw" keySequence="CTRL+TAB" command="_bySwRdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J59xPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+NUMPAD_MULTIPLY" command="_byQUJdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J7txPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+NUMPAD_DIVIDE" command="_bySJRtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w8NxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+M" command="_byQUA9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w8txPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+W" command="_bySwUdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w9txPEeSX--wpJ-qMuw" keySequence="CTRL+W" command="_byT-jtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w-NxPEeSX--wpJ-qMuw" keySequence="CTRL+3" command="_byRiTNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w-dxPEeSX--wpJ-qMuw" keySequence="CTRL+M" command="_bySJTNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YAtxPEeSX--wpJ-qMuw" keySequence="F11" command="_byTXh9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YC9xPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+B" command="_byQ7E9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YDdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G 3" command="_byPtANxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YDtxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G P" command="_byQULdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_ENxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G C" command="_bySwVNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_EdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G I" command="_byRiJNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_EtxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G NUMPAD_ADD" command="_byTXd9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_E9xPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G Q" command="_byRiItxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_FNxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G X" command="_bySwV9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_FdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G DEL" command="_byRiTtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_FtxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G S" command="_byQ7EdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_F9xPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G B" command="_bySJZNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_GNxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G U" command="_byRiR9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_GdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G H" command="_byUletxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_GtxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G R" command="_bySwctxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_G9xPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G NUMPAD_3" command="_byTXadxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_HNxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G NUMPAD_7" command="_byT-ltxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_HdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G V" command="_byRiQ9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3_HtxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G ." command="_byQ7INxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by4mINxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G G" command="_bySJWNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by4mIdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G NUMPAD_SUBTRACT" command="_byTXZtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by4mItxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G A" command="_byTXX9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by4mI9xPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G J" command="_byPs9txPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by4mJNxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G NUMPAD_9" command="_byRiL9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by4mJdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G E" command="_byT-eNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by4mJtxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G ARROW_RIGHT" command="_byPtC9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by4mJ9xPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G ARROW_LEFT" command="_byT-lNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by4mKNxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G T" command="_bySJTtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by4mKdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G W" command="_bySwVtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by4mKtxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G M" command="_byQUI9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by5NMNxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G NUMPAD_DIVIDE" command="_byT-hdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by5NMdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G D" command="_byPF59xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by5NMtxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G F" command="_byQ7P9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by5NM9xPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G NUMPAD_1" command="_byTXedxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by5NNNxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+G NUMPAD_6" command="_byQUN9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by5NNdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+Q B" command="_byQ7HNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by5NNtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.debug.ui.BreakpointView"/>
+    </bindings>
+    <bindings xmi:id="_by5NN9xPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+Q V" command="_byQ7HNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by5NONxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.debug.ui.VariableView"/>
+    </bindings>
+    <bindings xmi:id="_by5NOdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+Q Z" command="_byQ7HNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by5NOtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.team.ui.GenericHistoryView"/>
+    </bindings>
+    <bindings xmi:id="_by5NO9xPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+Q C" command="_byQ7HNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by5NPNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.ui.console.ConsoleView"/>
+    </bindings>
+    <bindings xmi:id="_by5NPdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+Q S" command="_byQ7HNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by5NPtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.search.ui.views.SearchView"/>
+    </bindings>
+    <bindings xmi:id="_by5NP9xPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+Q Y" command="_byQ7HNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by5NQNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.team.sync.views.SynchronizeView"/>
+    </bindings>
+    <bindings xmi:id="_by5NQdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+Q H" command="_byQ7HNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by5NQtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.ui.cheatsheets.views.CheatSheetView"/>
+    </bindings>
+    <bindings xmi:id="_by50QNxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+Q X" command="_byQ7HNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by50QdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.ui.views.ProblemView"/>
+    </bindings>
+    <bindings xmi:id="_by50QtxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+Q O" command="_byQ7HNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by50Q9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.ui.views.ContentOutline"/>
+    </bindings>
+    <bindings xmi:id="_by50RNxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+Q Q" command="_byQ7HNxPEeSX--wpJ-qMuw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_bytnAtxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.context" bindingContext="_byWaptxPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_bytnA9xPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+C" command="_byT-ldxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byu1INxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+W" command="_byQ7GtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDSdxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+F" command="_byRiJdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byyfg9xPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+O" command="_byTXgtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byzGmtxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+P" command="_bySJM9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byztpdxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+S" command="_byUledxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byztqNxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+V" command="_byRiJtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J5dxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+I" command="_byPF7txPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w8dxPEeSX--wpJ-qMuw" keySequence="CTRL+O" command="_byUleNxPEeSX--wpJ-qMuw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_bytnCdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.textEditorScope.findbar" bindingContext="_byWao9xPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_bytnCtxPEeSX--wpJ-qMuw" keySequence="ALT+C" command="_byQUJ9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byuOFNxPEeSX--wpJ-qMuw" keySequence="ALT+B" command="_bySwZNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byu1IdxPEeSX--wpJ-qMuw" keySequence="ALT+T" command="_byPs-dxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byu1K9xPEeSX--wpJ-qMuw" keySequence="ALT+X" command="_byPtG9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byvcNNxPEeSX--wpJ-qMuw" keySequence="ALT+P" command="_byPs89xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDQNxPEeSX--wpJ-qMuw" keySequence="ESC" command="_byPs_9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDR9xPEeSX--wpJ-qMuw" keySequence="CTRL+F" command="_byQUH9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byxRY9xPEeSX--wpJ-qMuw" keySequence="SHIFT+NUMPAD_ENTER" command="_byTXjNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byyfhNxPEeSX--wpJ-qMuw" keySequence="ALT+E" command="_bySwZdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byyfitxPEeSX--wpJ-qMuw" keySequence="ALT+F" command="_byPF4NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byzGltxPEeSX--wpJ-qMuw" keySequence="F12" command="_byPs_9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byzto9xPEeSX--wpJ-qMuw" keySequence="ALT+N" command="_byRiNNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byztqdxPEeSX--wpJ-qMuw" keySequence="ALT+O" command="_bySwVdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by0UstxPEeSX--wpJ-qMuw" keySequence="CTRL+K" command="_bySwU9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by0UtNxPEeSX--wpJ-qMuw" keySequence="SHIFT+CR" command="_byTXjNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by0UttxPEeSX--wpJ-qMuw" keySequence="ALT+CR" command="_byPtFtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by07wdxPEeSX--wpJ-qMuw" keySequence="NUMPAD_ENTER" command="_byRiNNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by1i0dxPEeSX--wpJ-qMuw" keySequence="CR" command="_byRiNNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by1i0txPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+K" command="_byTXjNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J4NxPEeSX--wpJ-qMuw" keySequence="F3" command="_byRiNNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J6txPEeSX--wpJ-qMuw" keySequence="ALT+K" command="_byTXbNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w89xPEeSX--wpJ-qMuw" keySequence="ALT+S" command="_byPF4txPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w-9xPEeSX--wpJ-qMuw" keySequence="ALT+W" command="_byQ7KdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YANxPEeSX--wpJ-qMuw" keySequence="ALT+L" command="_byRiP9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YAdxPEeSX--wpJ-qMuw" keySequence="ALT+SHIFT+CR" command="_byPtFtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YBNxPEeSX--wpJ-qMuw" keySequence="ALT+M" command="_byQ7ENxPEeSX--wpJ-qMuw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_byu1ItxPEeSX--wpJ-qMuw" elementId="com.aptana.org.eclipse.tm.terminal.TerminalContext" bindingContext="_byWaoNxPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_byu1I9xPEeSX--wpJ-qMuw" keySequence="ALT+T" command="_byPF7NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byvcNdxPEeSX--wpJ-qMuw" keySequence="ALT+P" command="_byPF7NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDQtxPEeSX--wpJ-qMuw" keySequence="ALT+G" command="_byPF7NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDStxPEeSX--wpJ-qMuw" keySequence="ALT+H" command="_byPF7NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byxRadxPEeSX--wpJ-qMuw" keySequence="ALT+R" command="_byPF7NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byyfhdxPEeSX--wpJ-qMuw" keySequence="ALT+E" command="_byPF7NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byyfi9xPEeSX--wpJ-qMuw" keySequence="ALT+F" command="_byPF7NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byzGmNxPEeSX--wpJ-qMuw" keySequence="ALT+V" command="_byPF7NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byztpNxPEeSX--wpJ-qMuw" keySequence="ALT+N" command="_byPF7NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w9NxPEeSX--wpJ-qMuw" keySequence="ALT+S" command="_byPF7NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w_NxPEeSX--wpJ-qMuw" keySequence="ALT+W" command="_byPF7NxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by3YB9xPEeSX--wpJ-qMuw" keySequence="ALT+A" command="_byPF7NxPEeSX--wpJ-qMuw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_byu1JNxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.common.outline" bindingContext="_byWar9xPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_byu1JdxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+-" command="_byQ7LNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byu1LNxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+2" command="_byT-gNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_byvcMNxPEeSX--wpJ-qMuw" elementId="level" name="level" value="2"/>
+    </bindings>
+    <bindings xmi:id="_bywqVdxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+7" command="_byT-gNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_bywqVtxPEeSX--wpJ-qMuw" elementId="level" name="level" value="7"/>
+    </bindings>
+    <bindings xmi:id="_byxRZNxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+9" command="_byT-gNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_byxRZdxPEeSX--wpJ-qMuw" elementId="level" name="level" value="9"/>
+    </bindings>
+    <bindings xmi:id="_byyfgdxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+1" command="_byT-gNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_byyfgtxPEeSX--wpJ-qMuw" elementId="level" name="level" value="1"/>
+    </bindings>
+    <bindings xmi:id="_byzGkdxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+8" command="_byT-gNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_byzGktxPEeSX--wpJ-qMuw" elementId="level" name="level" value="8"/>
+    </bindings>
+    <bindings xmi:id="_by1i2NxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+3" command="_byT-gNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by1i2dxPEeSX--wpJ-qMuw" elementId="level" name="level" value="3"/>
+    </bindings>
+    <bindings xmi:id="_by1i2txPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+6" command="_byT-gNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by1i29xPEeSX--wpJ-qMuw" elementId="level" name="level" value="6"/>
+    </bindings>
+    <bindings xmi:id="_by2J69xPEeSX--wpJ-qMuw" keySequence="ALT+CTRL++" command="_byPtGtxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w_dxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+5" command="_byT-gNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by2w_txPEeSX--wpJ-qMuw" elementId="level" name="level" value="5"/>
+    </bindings>
+    <bindings xmi:id="_by3YBdxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+4" command="_byT-gNxPEeSX--wpJ-qMuw">
+      <parameters xmi:id="_by3YBtxPEeSX--wpJ-qMuw" elementId="level" name="level" value="4"/>
+    </bindings>
+  </bindingTables>
+  <bindingTables xmi:id="_byu1JtxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.debugging" bindingContext="_byWaq9xPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_byu1J9xPEeSX--wpJ-qMuw" keySequence="CTRL+R" command="_byPs8dxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywDQdxPEeSX--wpJ-qMuw" keySequence="F6" command="_byTXfdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by07w9xPEeSX--wpJ-qMuw" keySequence="CTRL+F2" command="_bySJWdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by07xdxPEeSX--wpJ-qMuw" keySequence="F5" command="_byQUCNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2J8NxPEeSX--wpJ-qMuw" keySequence="F7" command="_byT-f9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2xANxPEeSX--wpJ-qMuw" keySequence="F8" command="_byQUB9xPEeSX--wpJ-qMuw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_byvcMtxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.context.dialog.commit" bindingContext="_byWasNxPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_byvcM9xPEeSX--wpJ-qMuw" keySequence="CTRL+CR" command="_byRiKdxPEeSX--wpJ-qMuw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_byvcNtxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.memoryview" bindingContext="_byWaqtxPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_byvcN9xPEeSX--wpJ-qMuw" keySequence="CTRL+N" command="_byQUM9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_bywqWNxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+N" command="_byT-ZNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byxRYdxPEeSX--wpJ-qMuw" keySequence="CTRL+T" command="_bySJMdxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byxRZtxPEeSX--wpJ-qMuw" keySequence="ALT+CTRL+M" command="_byTXi9xPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_by2w9dxPEeSX--wpJ-qMuw" keySequence="CTRL+W" command="_byQUDdxPEeSX--wpJ-qMuw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_bywDS9xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.memory.abstractasynctablerendering" bindingContext="_byWarNxPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_bywDTNxPEeSX--wpJ-qMuw" keySequence="CTRL+G" command="_bySJStxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byx4etxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+," command="_bySwdNxPEeSX--wpJ-qMuw"/>
+    <bindings xmi:id="_byztqtxPEeSX--wpJ-qMuw" keySequence="CTRL+SHIFT+." command="_bySJSNxPEeSX--wpJ-qMuw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_by1i1NxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.console" bindingContext="_byWapdxPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_by1i1dxPEeSX--wpJ-qMuw" keySequence="CTRL+Z" command="_byT-cNxPEeSX--wpJ-qMuw">
+      <tags>platform:win32</tags>
+    </bindings>
+  </bindingTables>
+  <bindingTables xmi:id="_by2J4dxPEeSX--wpJ-qMuw" elementId="com.aptana.scripting.context" bindingContext="_byWartxPEeSX--wpJ-qMuw">
+    <bindings xmi:id="_by2J4txPEeSX--wpJ-qMuw" keySequence="F3" command="_byRiS9xPEeSX--wpJ-qMuw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_b3A4MNxPEeSX--wpJ-qMuw" bindingContext="_b3ARINxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_b3A4MtxPEeSX--wpJ-qMuw" bindingContext="_b3A4MdxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_b3A4NNxPEeSX--wpJ-qMuw" bindingContext="_b3A4M9xPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_b3A4NtxPEeSX--wpJ-qMuw" bindingContext="_b3A4NdxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_b3BfQNxPEeSX--wpJ-qMuw" bindingContext="_b3A4N9xPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cA_6odxPEeSX--wpJ-qMuw" bindingContext="_cA_6oNxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBAhsdxPEeSX--wpJ-qMuw" bindingContext="_cBAhsNxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBAhs9xPEeSX--wpJ-qMuw" bindingContext="_cBAhstxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBAhtdxPEeSX--wpJ-qMuw" bindingContext="_cBAhtNxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBAht9xPEeSX--wpJ-qMuw" bindingContext="_cBAhttxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBAhudxPEeSX--wpJ-qMuw" bindingContext="_cBAhuNxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBBIwdxPEeSX--wpJ-qMuw" bindingContext="_cBBIwNxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBBIw9xPEeSX--wpJ-qMuw" bindingContext="_cBBIwtxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBBIxdxPEeSX--wpJ-qMuw" bindingContext="_cBBIxNxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBBIx9xPEeSX--wpJ-qMuw" bindingContext="_cBBIxtxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBBIydxPEeSX--wpJ-qMuw" bindingContext="_cBBIyNxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBBv0dxPEeSX--wpJ-qMuw" bindingContext="_cBBv0NxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBBv09xPEeSX--wpJ-qMuw" bindingContext="_cBBv0txPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBBv1dxPEeSX--wpJ-qMuw" bindingContext="_cBBv1NxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBBv19xPEeSX--wpJ-qMuw" bindingContext="_cBBv1txPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBBv2dxPEeSX--wpJ-qMuw" bindingContext="_cBBv2NxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBCW4dxPEeSX--wpJ-qMuw" bindingContext="_cBCW4NxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBCW49xPEeSX--wpJ-qMuw" bindingContext="_cBCW4txPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBCW5dxPEeSX--wpJ-qMuw" bindingContext="_cBCW5NxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBCW59xPEeSX--wpJ-qMuw" bindingContext="_cBCW5txPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBCW6dxPEeSX--wpJ-qMuw" bindingContext="_cBCW6NxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBC98dxPEeSX--wpJ-qMuw" bindingContext="_cBC98NxPEeSX--wpJ-qMuw"/>
+  <bindingTables xmi:id="_cBC989xPEeSX--wpJ-qMuw" bindingContext="_cBC98txPEeSX--wpJ-qMuw"/>
+  <rootContext xmi:id="_bx5utNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.contexts.dialogAndWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" name="In Dialogs and Windows" description="Either a dialog or a window is open">
+    <children xmi:id="_bx5utdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.contexts.window" contributorURI="platform:/plugin/org.eclipse.ui.workbench" name="In Windows" description="A window is open">
+      <children xmi:id="_bx5uttxPEeSX--wpJ-qMuw" elementId="org.eclipse.e4.ui.contexts.views" contributorURI="platform:/plugin/org.eclipse.ui.workbench" name="%bindingcontext.name.bindingView"/>
+      <children xmi:id="_byWaodxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.BreakpointView" name="In Breakpoints View" description="The breakpoints view context"/>
+      <children xmi:id="_byWaotxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.textEditorScope" name="Editing Text" description="Editing Text Context">
+        <children xmi:id="_byWao9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.textEditorScope.findbar" name="Find Bar" description="Find Bar Context is active when the find text box has the focus."/>
+      </children>
+      <children xmi:id="_byWapdxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.console" name="In I/O Console" description="In I/O console"/>
+      <children xmi:id="_byWaptxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.context" name="Titanium Studio Editor"/>
+      <children xmi:id="_byWap9xPEeSX--wpJ-qMuw" elementId="org.eclipse.compare.compareEditorScope" name="Comparing in an Editor" description="Comparing in an Editor"/>
+      <children xmi:id="_byWaqdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.console.ConsoleView" name="In Console View" description="In Console View"/>
+      <children xmi:id="_byWaqtxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.memoryview" name="In Memory View" description="In memory view"/>
+      <children xmi:id="_byWaq9xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.debugging" name="Debugging" description="Debugging programs">
+        <children xmi:id="_byWarNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.memory.abstractasynctablerendering" name="In Table Memory Rendering" description="In Table Memory Rendering"/>
+        <children xmi:id="_byWardxPEeSX--wpJ-qMuw" elementId="com.aptana.js.debug.ui.debugging" name="JavaScript Debugging"/>
+      </children>
+      <children xmi:id="_byWartxPEeSX--wpJ-qMuw" elementId="com.aptana.scripting.context" name="Aptana Scriptable Context"/>
+    </children>
+    <children xmi:id="_bx5ut9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.contexts.dialog" contributorURI="platform:/plugin/org.eclipse.ui.workbench" name="In Dialogs" description="A dialog is open">
+      <children xmi:id="_byWasNxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.context.dialog.commit" name="Git Commit Dialog"/>
+    </children>
+  </rootContext>
+  <rootContext xmi:id="_byWaoNxPEeSX--wpJ-qMuw" elementId="com.aptana.org.eclipse.tm.terminal.TerminalContext" name="Terminal widget context" description="Override ALT+x menu access keys"/>
+  <rootContext xmi:id="_byWapNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.contexts.actionSet" name="Action Set" description="Parent context for action sets"/>
+  <rootContext xmi:id="_byWaqNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.contexts.workbenchMenu" name="Workbench Menu" description="When no Workbench windows are active"/>
+  <rootContext xmi:id="_byWar9xPEeSX--wpJ-qMuw" elementId="com.aptana.editor.common.outline" name="Titanium Studio Outline"/>
+  <rootContext xmi:id="_b3ARINxPEeSX--wpJ-qMuw" elementId="com.aptana.js.debug.ui.actions.htmlDoubleClickBreakpointAction" name="Auto::com.aptana.js.debug.ui.actions.htmlDoubleClickBreakpointAction"/>
+  <rootContext xmi:id="_b3A4MdxPEeSX--wpJ-qMuw" elementId="com.aptana.js.debug.ui.actions.jsDoubleClickBreakpointAction" name="Auto::com.aptana.js.debug.ui.actions.jsDoubleClickBreakpointAction"/>
+  <rootContext xmi:id="_b3A4M9xPEeSX--wpJ-qMuw" elementId="com.aptana.js.debug.ui.actions.phpDoubleClickBreakpointAction" name="Auto::com.aptana.js.debug.ui.actions.phpDoubleClickBreakpointAction"/>
+  <rootContext xmi:id="_b3A4NdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.texteditor.BookmarkRulerAction" name="Auto::org.eclipse.ui.texteditor.BookmarkRulerAction"/>
+  <rootContext xmi:id="_b3A4N9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.texteditor.SelectRulerAction" name="Auto::org.eclipse.ui.texteditor.SelectRulerAction"/>
+  <rootContext xmi:id="_cA_6oNxPEeSX--wpJ-qMuw" elementId="com.aptana.browser.actionSet" name="Auto::com.aptana.browser.actionSet"/>
+  <rootContext xmi:id="_cBAhsNxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.common.presentation" name="Auto::com.aptana.editor.common.presentation"/>
+  <rootContext xmi:id="_cBAhstxPEeSX--wpJ-qMuw" elementId="com.aptana.js.debug.ui.actionSet" name="Auto::com.aptana.js.debug.ui.actionSet"/>
+  <rootContext xmi:id="_cBAhtNxPEeSX--wpJ-qMuw" elementId="com.aptana.terminal.actionSet" name="Auto::com.aptana.terminal.actionSet"/>
+  <rootContext xmi:id="_cBAhttxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.globalActionSet" name="Auto::com.aptana.ui.globalActionSet"/>
+  <rootContext xmi:id="_cBAhuNxPEeSX--wpJ-qMuw" elementId="org.chromium.debug.ui.actionSets" name="Auto::org.chromium.debug.ui.actionSets"/>
+  <rootContext xmi:id="_cBBIwNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.breakpointActionSet" name="Auto::org.eclipse.debug.ui.breakpointActionSet"/>
+  <rootContext xmi:id="_cBBIwtxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.debugActionSet" name="Auto::org.eclipse.debug.ui.debugActionSet"/>
+  <rootContext xmi:id="_cBBIxNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.launchActionSet" name="Auto::org.eclipse.debug.ui.launchActionSet"/>
+  <rootContext xmi:id="_cBBIxtxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.profileActionSet" name="Auto::org.eclipse.debug.ui.profileActionSet"/>
+  <rootContext xmi:id="_cBBIyNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.cheatsheets.actionSet" name="Auto::org.eclipse.ui.cheatsheets.actionSet"/>
+  <rootContext xmi:id="_cBBv0NxPEeSX--wpJ-qMuw" elementId="org.eclipse.search.searchActionSet" name="Auto::org.eclipse.search.searchActionSet"/>
+  <rootContext xmi:id="_cBBv0txPEeSX--wpJ-qMuw" elementId="org.eclipse.team.ui.actionSet" name="Auto::org.eclipse.team.ui.actionSet"/>
+  <rootContext xmi:id="_cBBv1NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.actionSet.annotationNavigation" name="Auto::org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+  <rootContext xmi:id="_cBBv1txPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.actionSet.navigation" name="Auto::org.eclipse.ui.edit.text.actionSet.navigation"/>
+  <rootContext xmi:id="_cBBv2NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo" name="Auto::org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+  <rootContext xmi:id="_cBCW4NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.externaltools.ExternalToolsSet" name="Auto::org.eclipse.ui.externaltools.ExternalToolsSet"/>
+  <rootContext xmi:id="_cBCW4txPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.NavigateActionSet" name="Auto::org.eclipse.ui.NavigateActionSet"/>
+  <rootContext xmi:id="_cBCW5NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.actionSet.keyBindings" name="Auto::org.eclipse.ui.actionSet.keyBindings"/>
+  <rootContext xmi:id="_cBCW5txPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.WorkingSetModificationActionSet" name="Auto::org.eclipse.ui.WorkingSetModificationActionSet"/>
+  <rootContext xmi:id="_cBCW6NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.WorkingSetActionSet" name="Auto::org.eclipse.ui.WorkingSetActionSet"/>
+  <rootContext xmi:id="_cBC98NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.actionSet.openFiles" name="Auto::org.eclipse.ui.actionSet.openFiles"/>
+  <rootContext xmi:id="_cBC98txPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.actionSet.presentation" name="Auto::org.eclipse.ui.edit.text.actionSet.presentation"/>
+  <descriptors xmi:id="_b18hMNxPEeSX--wpJ-qMuw" elementId="org.eclipse.e4.ui.compatibility.editor" allowMultiple="true" category="org.eclipse.e4.primaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor">
+    <tags>Editor</tags>
+  </descriptors>
+  <descriptors xmi:id="_b1-9cNxPEeSX--wpJ-qMuw" elementId="com.aptana.browser.views.webbrowser" label="Web Browser" iconURI="platform:/plugin/com.aptana.browser/icons/obj16/browser.png" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Studio</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2EdANxPEeSX--wpJ-qMuw" elementId="com.aptana.explorer.view" label="App Explorer" iconURI="platform:/plugin/com.aptana.explorer/icons/full/cview16/filenav_nav.png" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Studio</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2FEENxPEeSX--wpJ-qMuw" elementId="com.aptana.index.core.ui.view" label="Index View" iconURI="platform:/plugin/com.aptana.index.core.ui/icons/index-view.png" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Studio</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2FrINxPEeSX--wpJ-qMuw" elementId="com.aptana.js.debug.ui.AJAXMonitorView" label="Studio Ajax Monitor" iconURI="platform:/plugin/com.aptana.js.debug.ui/icons/full/obj16/xhrmon.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Debug</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2GSMNxPEeSX--wpJ-qMuw" elementId="com.aptana.js.debug.ui.scriptsView" label="Loaded Scripts" iconURI="platform:/plugin/com.aptana.js.debug.ui/icons/full/obj16/script.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Debug</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2G5QNxPEeSX--wpJ-qMuw" elementId="com.aptana.samples.ui.SamplesView" label="Samples" iconURI="platform:/plugin/com.aptana.samples.ui/icons/samples.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Studio</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2HgUNxPEeSX--wpJ-qMuw" elementId="com.aptana.scripting.views.BundleView" label="Bundles" iconURI="platform:/plugin/com.aptana.scripting.ui/icons/bundle_entry.png" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Studio</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2IHYNxPEeSX--wpJ-qMuw" elementId="com.aptana.terminal.views.terminal" label="Terminal" iconURI="platform:/plugin/com.aptana.terminal/icons/terminal.png" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Studio</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2IHYdxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.io.remoteview" label="Remote" iconURI="platform:/plugin/com.aptana.ui.io/icons/full/eview16/remote.png" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Studio</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2IucNxPEeSX--wpJ-qMuw" elementId="com.aptana.webserver.ui.view" label="Servers" iconURI="platform:/plugin/com.aptana.webserver.ui/icons/obj16/server.png" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Studio</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2JVgNxPEeSX--wpJ-qMuw" elementId="com.aptana.snippets.ui.views.SnippetsView" label="Snippets" iconURI="platform:/plugin/com.aptana.scripting.ui/icons/snippet.png" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Studio</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2JVgdxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.DebugView" label="Debug" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/debug_view.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Debug</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2J8kNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.BreakpointView" label="Breakpoints" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/breakpoint_view.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Debug</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2KjoNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.VariableView" label="Variables" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/variable_view.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Debug</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2KjodxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.ExpressionView" label="Expressions" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/watchlist_view.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Debug</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2LKsNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.RegisterView" label="Registers" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/register_view.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Debug</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2LKsdxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.ModuleView" label="Modules" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/module_view.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Debug</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2LxwNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.MemoryView" label="Memory" iconURI="platform:/plugin/org.eclipse.debug.ui/icons/full/eview16/memory_view.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Debug</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2LxwdxPEeSX--wpJ-qMuw" elementId="org.eclipse.help.ui.HelpView" label="Help" iconURI="platform:/plugin/org.eclipse.help.ui/icons/view16/help_view.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Help</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2MY0NxPEeSX--wpJ-qMuw" elementId="org.eclipse.search.SearchResultView" label="Classic Search" iconURI="platform:/plugin/org.eclipse.search/icons/full/eview16/searchres.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2MY0dxPEeSX--wpJ-qMuw" elementId="org.eclipse.search.ui.views.SearchView" label="Search" iconURI="platform:/plugin/org.eclipse.search/icons/full/eview16/searchres.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2M_4NxPEeSX--wpJ-qMuw" elementId="org.eclipse.team.sync.views.SynchronizeView" label="Synchronize" iconURI="platform:/plugin/org.eclipse.team.ui/icons/full/eview16/synch_synch.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Team</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2Nm8NxPEeSX--wpJ-qMuw" elementId="org.eclipse.team.ui.GenericHistoryView" label="History" iconURI="platform:/plugin/org.eclipse.team.ui/icons/full/eview16/history_view.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Team</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2Nm8dxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.internal.introview" label="Welcome" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2OOANxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.browser.view" label="Internal Web Browser" iconURI="platform:/plugin/org.eclipse.ui.browser/icons/obj16/internal_browser.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2OOAdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="Cheat Sheets" iconURI="platform:/plugin/org.eclipse.ui.cheatsheets/icons/view16/cheatsheet_view.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Help</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2O1ENxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.console.ConsoleView" label="Console" iconURI="platform:/plugin/org.eclipse.ui.console/icons/full/cview16/console_view.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2O1EdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.ProgressView" label="Progress" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/pview.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2PcINxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.ResourceNavigator" label="Navigator" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/filenav_nav.gif" category="org.eclipse.e4.primaryNavigationStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2QDMNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.BookmarkView" label="Bookmarks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/bkmrk_nav.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2QDMdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.TaskList" label="Tasks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/tasks_tsk.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2QqQNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.ProblemView" label="Problems" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2QqQdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.AllMarkersView" label="Markers" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/problems_view.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2RRUNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.gif" category="org.eclipse.e4.primaryNavigationStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2R4YNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.PropertySheet" label="Properties" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/prop_ps.gif" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <descriptors xmi:id="_b2R4YdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.ContentOutline" label="Outline" iconURI="platform:/plugin/org.eclipse.ui.views/icons/full/eview16/outline_co.gif" category="org.eclipse.e4.secondaryNavigationStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <commands xmi:id="_byPF4NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.focusFind" commandName="Find Bar Focus Find" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF4dxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.pageUp" commandName="Select Page Up" description="Select to the top of the page" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF4txPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.searchInOpenFiles" commandName="Search in Open Files" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF49xPEeSX--wpJ-qMuw" elementId="org.eclipse.search.ui.openFileSearchPage" commandName="File Search" description="Open the Search dialog's file search page" category="_byOe1NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF5NxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.html.outline.toggle_text" commandName="Toggle Text Nodes" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF5dxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.ide.copyBuildIdCommand" commandName="Copy Build Id To Clipboard" description="Copies the build id to the clipboard." category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF5txPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.textEnd" commandName="Select Text End" description="Select to the end of the text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF59xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.delete_branch" commandName="Delete Branch..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF6NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.deletePreviousWord" commandName="Delete Previous Word" description="Delete the previous word" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF6dxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.wordPrevious" commandName="Previous Word" description="Go to the previous word" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF6txPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.preferences" commandName="Preferences" description="Open the preferences dialog" category="_byOe4dxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byPF69xPEeSX--wpJ-qMuw" elementId="preferencePageId" name="Preference Page"/>
+  </commands>
+  <commands xmi:id="_byPF7NxPEeSX--wpJ-qMuw" elementId="com.aptana.org.eclipse.tm.terminal.command1" commandName="Terminal view insert" category="_byOe0txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF7dxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.delimiter.unix" commandName="Convert Line Delimiters to Unix (LF, \n, 0A, &#xb6;)" description="Converts the line delimiters to Unix (LF, \n, 0A, &#xb6;)" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF7txPEeSX--wpJ-qMuw" elementId="com.aptana.debug.ui.commands.Inspect" commandName="Inspect" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF79xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.cherry-pick" commandName="cherry-pick" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF8NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.copy" commandName="Copy" description="Copy the selection to the clipboard" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF8dxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.nextView" commandName="Next View" description="Switch to the next view" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF8txPEeSX--wpJ-qMuw" elementId="com.aptana.editor.common.scripting.commands.show" commandName="Show Commands Menu" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF89xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.revertToSaved" commandName="Revert to Saved" description="Revert to the last saved state" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPF9NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.properties.NewPropertySheetCommand" commandName="Properties" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs8NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.addToWorkingSet" commandName="Add to Working Set" description="Adds the selected object to a working set." category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs8dxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.RunToLine" commandName="Run to Line" description="Resume and break when execution reaches the current line" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs8txPEeSX--wpJ-qMuw" elementId="org.eclipse.team.ui.TeamSynchronizingPerspective" commandName="Team Synchronizing" description="Open the Team Synchronizing Perspective" category="_byOe2dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs89xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.searchInEnclosingProject" commandName="Search in Enclosing Project" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs9NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.showChangeRulerInformation" commandName="Show Quick Diff Ruler Tooltip" description="Displays quick diff or revision information for the caret line in a focused hover" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs9dxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.upperCase" commandName="To Upper Case" description="Changes the selection to upper case" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs9txPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.stash" commandName="Stash" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs99xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.goInto" commandName="Go Into" description="Navigate into the selected item" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs-NxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.OpenRunConfigurations" commandName="Run..." description="Open run launch configuration dialog" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs-dxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.searchInCurrentFile" commandName="Search in Current File" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs-txPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.windowEnd" commandName="Select Window End" description="Select to the end of the window" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs-9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.minimizePart" commandName="Minimize Active View or Editor" description="Minimizes the active view or editor" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs_NxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.command.sendfeedback" commandName="Send Feedback..." description="Send feedback on Titanium Studio" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs_dxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.ToggleLineBreakpoint" commandName="Toggle Line Breakpoint" description="Creates or removes a line breakpoint" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs_txPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.showSystemMenu" commandName="Show System Menu" description="Show the system menu" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPs_9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.hide" commandName="Hide Find Bar" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtANxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.delete_remote" commandName="Delete Remote..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtAdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.savePerspective" commandName="Save Perspective As" description="Save the current perspective" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtAtxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.ftp.command.duplicate" commandName="Duplicate" category="_byOe0NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtA9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.move" commandName="Move..." description="Move the selected item" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtBNxPEeSX--wpJ-qMuw" elementId="com.aptana.ide.syncing.ui.commands.cloak" commandName="Cloak this file type" category="_byOe0dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtBdxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.mobile.command.package.mobileweb.module" commandName="Package - Mobile Web Module" category="_byOe39xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtBtxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.acs.publish.service" commandName="Publish Node.ACS service" description="Publishes the Node.ACS service for this project" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtB9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.linkWithEditor" commandName="Toggle Link with Editor " description="Toggles linking of a view's selection with the active editor's selection" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtCNxPEeSX--wpJ-qMuw" elementId="org.eclipse.compare.ignoreWhiteSpace" commandName="Ignore White Space" description="Ignore white space where applicable" category="_byOe4NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtCdxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.command.clearlog" commandName="Clear Log File" description="Clear Studio log file" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtCtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.toggleBlockSelectionMode" commandName="Toggle Block Selection" description="Toggle block / column selection in the current text editor" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtC9xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.push" commandName="Push" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtDNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.goToResource" commandName="Go to" description="Go to a particular resource in the active view" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtDdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.resetPerspective" commandName="Reset Perspective" description="Reset the current perspective to its default state" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtDtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.project.buildLast" commandName="Repeat Working Set Build" description="Repeat the last working set build" category="_byN3w9xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtD9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.project.buildProject" commandName="Build Project" description="Build the selected project" category="_byN3w9xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtENxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.textStart" commandName="Text Start" description="Go to the beginning of the text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtEdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.paste" commandName="Paste" description="Paste from the clipboard" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtEtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.part.nextPage" commandName="Next Page" description="Switch to the next page" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtE9xPEeSX--wpJ-qMuw" elementId="com.aptana.samples.ui.commands.preview" commandName="Preview sample..." category="_byOe3dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtFNxPEeSX--wpJ-qMuw" elementId="com.aptana.portal.ui.command.openStartPage" commandName="Show Aptana Studio Start Page" description="Aptana Studio Start Page" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtFdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.previous" commandName="Previous" description="Navigate to the previous item" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtFtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.inputNewline" commandName="Input Newline in Find Bar" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtF9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.rename" commandName="Rename" description="Rename the selected item" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtGNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.clear.mark" commandName="Clear Mark" description="Clear the mark" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtGdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.project.buildAll" commandName="Build All" description="Build all projects" category="_byN3w9xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtGtxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.commands.ExpandAll" commandName="Expand All" description="Expand All" category="_byN3wdxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtG9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.toggleRegexpMatching" commandName="Toggle Regular Expression Matching" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtHNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.cut.line.to.beginning" commandName="Cut to Beginning of Line" description="Cut to the beginning of a line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byPtHdxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.alloy.new.view" commandName="Alloy View" description="Create a new Alloy view" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUANxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.editors.revisions.rendering.cycle" commandName="Cycle Revision Coloring Mode" description="Cycles through the available coloring modes for revisions" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUAdxPEeSX--wpJ-qMuw" elementId="com.aptana.ide.syncing.ui.commands.download" commandName="Download..." category="_byOe0dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUAtxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.ui.ide.command.install.module" commandName="Install Mobile Module..." description="Install a module from a url" category="_byOe39xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUA9xPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.alloy.new.model" commandName="Alloy Model" description="Create a new Alloy model" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUBNxPEeSX--wpJ-qMuw" elementId="org.eclipse.help.ui.closeTray" commandName="Close User Assistance Tray" description="Close the user assistance tray containing context help information and cheat sheets." category="_byOe49xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUBdxPEeSX--wpJ-qMuw" elementId="com.aptana.webserver.command.restart_server" commandName="Restart Server" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUBtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ltk.ui.refactoring.commands.moveResources" commandName="Move Resources" description="Move the selected resources and notify LTK participants." category="_byOe29xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUB9xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.Resume" commandName="Resume" description="Resume" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUCNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.StepInto" commandName="Step Into" description="Step into" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUCdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.restartWorkbench" commandName="Restart" description="Restart the workbench" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUCtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.toggleOverwrite" commandName="Toggle Overwrite" description="Toggle overwrite mode" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUC9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.folding.collapse_all" commandName="Collapse All" description="Collapses all folded regions" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUDNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.ToggleWatchpoint" commandName="Toggle Watchpoint" description="Creates or removes a watchpoint" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUDdxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.closeRendering" commandName="Close Rendering" description="Close the selected rendering." category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUDtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.showViewMenu" commandName="Show View Menu" description="Show the view menu" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUD9xPEeSX--wpJ-qMuw" elementId="com.aptana.ui.command.viewlog" commandName="View Log File" description="View Studio log file" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUENxPEeSX--wpJ-qMuw" elementId="com.aptana.webserver.command.new_server" commandName="Add Server" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUEdxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.ProfileLast" commandName="Profile" description="Launch in profile mode" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUEtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.shiftRight" commandName="Shift Right" description="Shift a block of text to the right" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUE9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.backwardHistory" commandName="Backward History" description="Move backward in the editor navigation history" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUFNxPEeSX--wpJ-qMuw" elementId="org.chromium.debug.ui.breakpoint.properties" commandName="Breakpoint Properties..." description="Modify breakpoint properties" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUFdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.removeTrailingWhitespace" commandName="Remove Trailing Whitespace" description="Removes the trailing whitespace of each line" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUFtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findIncremental" commandName="Incremental Find" description="Incremental find" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUF9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.swap.mark" commandName="Swap Mark" description="Swap the mark with the cursor position" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUGNxPEeSX--wpJ-qMuw" elementId="com.aptana.deploy.commands.ftp.settings" commandName="Deployment Settings..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUGdxPEeSX--wpJ-qMuw" elementId="com.aptana.jira.ui.commands.submit" commandName="Submit a Ticket..." description="Submit a JIRA ticket" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUGtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.shiftLeft" commandName="Shift Left" description="Shift a block of text to the left" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUG9xPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.acs.remove" commandName="Remove" description="Removes the app entirely from Node.ACS servers" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUHNxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.mobile.command.launch" commandName="Launch app" category="_byOe39xPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byQUHdxPEeSX--wpJ-qMuw" elementId="shortcut" name="Shortcut" optional="false"/>
+    <parameters xmi:id="_byQUHtxPEeSX--wpJ-qMuw" elementId="mode" name="Mode"/>
+  </commands>
+  <commands xmi:id="_byQUH9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.focusFindOrOpenEclipseSearch" commandName="Find Bar Focus Find or Open Eclipse Search Dialog (depends on configuration)" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUINxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.mobile.command.launch_app" commandName="Launch App" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUIdxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.Restart" commandName="Restart" description="Restart a process or debug target without terminating and re-launching" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUItxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.delete.line" commandName="Delete Line" description="Delete a line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUI9xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.merge_branch" commandName="Merge Branch..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUJNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.DebugPerspective" commandName="Debug" description="Open the debug perspective" category="_byOe2dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUJdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.expandAll" commandName="Expand All" description="Expand the current tree" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUJtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.saveAll" commandName="Save All" description="Save all current contents" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUJ9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.toggleCaseMatching" commandName="Toggle Case Sensitive Matching" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUKNxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.command.ShowInFileManager" commandName="Show In File Manager" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUKdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.closeOthers" commandName="Close Others" description="Close all editors except the one that is active" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUKtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.editors.quickdiff.revertLine" commandName="Revert Line" description="Revert the current line" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUK9xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.OpenDebugConfigurations" commandName="Debug..." description="Open debug launch configuration dialog" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQULNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.previousEditor" commandName="Previous Editor" description="Switch to the previous editor" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQULdxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.push_to_remote" commandName="Push to Remote..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQULtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findReplace" commandName="Find and Replace" description="Find and replace text" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUL9xPEeSX--wpJ-qMuw" elementId="com.aptana.ide.syncing.ui.commands.connectionmanager" commandName="Connection Manager..." category="_byOe0dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUMNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.ide.OpenMarkersView" commandName="Open Another" description="Open another view" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUMdxPEeSX--wpJ-qMuw" elementId="org.chromium.debug.ui.commands.Inspect" commandName="Inspect" description="Inspect result of evaluating selected text" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUMtxPEeSX--wpJ-qMuw" elementId="com.aptana.projects.promote" commandName="Promote the folder to become a project" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUM9xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.newRendering" commandName="New Rendering" description="Add a new rendering." category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUNNxPEeSX--wpJ-qMuw" elementId="org.eclipse.team.ui.synchronizeAll" commandName="Synchronize..." description="Synchronize resources in the workspace with another location" category="_byN3wNxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUNdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.nextEditor" commandName="Next Editor" description="Switch to the next editor" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUNtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.project.closeUnrelatedProjects" commandName="Close Unrelated Projects" description="Close unrelated projects" category="_byN3w9xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUN9xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.push_tags" commandName="Push all tags to remote..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUONxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.help.helpContents" commandName="Help Contents" description="Open the help contents" category="_byOe49xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUOdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.delete" commandName="Delete" description="Delete the selection" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUOtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.delete.line.to.beginning" commandName="Delete to Beginning of Line" description="Delete to the beginning of a line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQUO9xPEeSX--wpJ-qMuw" elementId="org.eclipse.search.ui.performTextSearchWorkspace" commandName="Find Text in Workspace" description="Searches the files in the workspace for specific text." category="_byOe1NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7ENxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.toggleMatchCount" commandName="Toggle Show Match Count" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7EdxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.status" commandName="Status" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7EtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findPrevious" commandName="Find Previous" description="Find previous item" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7E9xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.ToggleBreakpoint" commandName="Toggle Breakpoint" description="Creates or removes a breakpoint" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7FNxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.PreviousEditorCommand" commandName="Previous Editor (Titanium Studio)" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7FdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.addBookmark" commandName="Add Bookmark" description="Add a bookmark" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7FtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.scroll.lineUp" commandName="Scroll Line Up" description="Scroll up one line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7F9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.set.mark" commandName="Set Mark" description="Set the mark" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7GNxPEeSX--wpJ-qMuw" elementId="com.aptana.webserver.command.edit_server" commandName="Edit Server" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7GdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.folding.toggle" commandName="Toggle Folding" description="Toggles folding in the current editor" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7GtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.toggleShowWhitespaceCharacters" commandName="Show Whitespace Characters" description="Shows whitespace characters in current text editor" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7G9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.revert" commandName="Revert" description="Revert to the last saved state" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7HNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView" commandName="Show View" description="Shows a particular view" category="_byN3wdxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byQ7HdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView.viewId" name="View"/>
+    <parameters xmi:id="_byQ7HtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView.secondaryId" name="Secondary Id"/>
+    <parameters xmi:id="_byQ7H9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.views.showView.makeFast" name="As FastView"/>
+  </commands>
+  <commands xmi:id="_byQ7INxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.compare_with_HEAD" commandName="Compare With HEAD" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7IdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.showResourceByPath" commandName="Show Resource in Navigator" description="Show a resource in the Navigator given its path" category="_byOe3NxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byQ7ItxPEeSX--wpJ-qMuw" elementId="resourcePath" name="Resource Path" typeId="org.eclipse.ui.ide.resourcePath" optional="false"/>
+  </commands>
+  <commands xmi:id="_byQ7I9xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.SkipAllBreakpoints" commandName="Skip All Breakpoints" description="Sets whether or not any breakpoint should suspend execution" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7JNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.delimiter.windows" commandName="Convert Line Delimiters to Windows (CRLF, \r\n, 0D0A, &#xa4;&#xb6;)" description="Converts the line delimiters to Windows (CRLF, \r\n, 0D0A, &#xa4;&#xb6;)" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7JdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findNext" commandName="Find Next" description="Find next item" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7JtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.project.buildAutomatically" commandName="Build Automatically" description="Toggle the workspace build automatically function" category="_byN3w9xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7J9xPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.acs.import.service" commandName="Import Node.ACS Bindings" description="Imports a Node.ACS Service's bindings" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7KNxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.alloy.ui.externalize.strings" commandName="Externalize Strings..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7KdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.toggleWordMatching" commandName="Toggle Whole Word Matching" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7KtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.import" commandName="Import" description="Import" category="_byOe3txPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byQ7K9xPEeSX--wpJ-qMuw" elementId="importWizardId" name="Import Wizard"/>
+  </commands>
+  <commands xmi:id="_byQ7LNxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.commands.CollapseAll" commandName="Collapse All" description="Collapse All" category="_byN3wdxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7LdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.switchToEditor" commandName="Switch to Editor" description="Switch to an editor" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7LtxPEeSX--wpJ-qMuw" elementId="com.aptana.explorer.commands.toggleChangedFilesFilter" commandName="Filter to changed files" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7L9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.help.dynamicHelp" commandName="Dynamic Help" description="Open the dynamic help" category="_byOe49xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7MNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.nextSubTab" commandName="Next Sub-Tab" description="Switch to the next sub-tab" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7MdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.addTask" commandName="Add Task..." description="Add a task" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7MtxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.alloy.new.widget" commandName="Alloy Widget" description="Create a new Alloy widget" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7M9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.toggleInsertMode" commandName="Toggle Insert Mode" description="Toggle insert mode" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7NNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.cheatsheets.openCheatSheet" commandName="Open Cheat Sheet" description="Open a Cheat Sheet." category="_byOe49xPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byQ7NdxPEeSX--wpJ-qMuw" elementId="cheatSheetId" name="Identifier"/>
+  </commands>
+  <commands xmi:id="_byQ7NtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.closePart" commandName="Close Part" description="Close the active workbench part" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7N9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.editors.revisions.id.toggle" commandName="Toggle Revision Id Display" description="Toggles the display of the revision id" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7ONxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.project.cleanAction" commandName="Build Clean" description="Discard old built state" category="_byN3w9xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7OdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.moveLineDown" commandName="Move Lines Down" description="Moves the selected lines down" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7OtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.back" commandName="Back" description="Navigate back" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7O9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.wordNext" commandName="Select Next Word" description="Select the next word" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7PNxPEeSX--wpJ-qMuw" elementId="org.eclipse.equinox.p2.ui.sdk.update" commandName="Check for Updates" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7PdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.pageDown" commandName="Page Down" description="Go down one page" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7PtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.textEnd" commandName="Text End" description="Go to the end of the text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7P9xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.diff" commandName="Diff..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7QNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.part.previousPage" commandName="Previous Page" description="Switch to the previous page" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7QdxPEeSX--wpJ-qMuw" elementId="com.aptana.deploy.commands.deploywizard" commandName="Run Web Deployment Wizard..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byQ7QtxPEeSX--wpJ-qMuw" elementId="com.aptana.explorer.commands.toggleAppExplorer" commandName="Show/Hide App Explorer" description="Toggle to show or hide App Explorer view" category="_byN3wdxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiINxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.dashboard.command.openToolbox" commandName="Show Studio Dashboard" description="Opens the Studio Dashboard" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiIdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.project.closeProject" commandName="Close Project" description="Close the selected project" category="_byN3w9xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiItxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.squash_merge_branch" commandName="Squash Merge Branch..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiI9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findIncrementalReverse" commandName="Incremental Find Reverse" description="Incremental find reverse" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiJNxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.ignore" commandName="Add to .gitignore" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiJdxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.commands.Format" commandName="Format" description="Format the selected text" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiJtxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.alloy.ui.command.openXML" commandName="View File" description="Open the View File" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiJ9xPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.mobile.command.package.blackberry" commandName="Distribute - BlackBerry" category="_byOe39xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiKNxPEeSX--wpJ-qMuw" elementId="org.eclipse.search.ui.performTextSearchFile" commandName="Find Text in File" description="Searches the files in the file for specific text." category="_byOe1NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiKdxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.commit.dialog" commandName="Perform Commit" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiKtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.columnNext" commandName="Next Column" description="Go to the next column" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiK9xPEeSX--wpJ-qMuw" elementId="org.eclipse.search.ui.performTextSearchWorkingSet" commandName="Find Text in Working Set" description="Searches the files in the working set for specific text." category="_byOe1NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiLNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.wordNext" commandName="Next Word" description="Go to the next word" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiLdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.cut.line" commandName="Cut Line" description="Cut a line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiLtxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.acs.logcat" commandName="Tail Logs" description="Tail the log entries output from the app" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiL9xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.create_tag" commandName="Create Tag..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiMNxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.acs.view.app" commandName="View Node.ACS Service" description="View the Node.ACS service in a browser" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiMdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.folding.expand_all" commandName="Expand All" description="Expands all folded regions" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiMtxPEeSX--wpJ-qMuw" elementId="org.eclipse.quickdiff.toggle" commandName="Quick Diff Toggle" description="Toggles quick diff information display on the line number ruler" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiM9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.deleteNext" commandName="Delete Next" description="Delete the next character" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiNNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.findNextOrPrev" commandName="Find Next or Previous (depends on search backward configuration)" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiNdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.help.quickStartAction" commandName="Welcome" description="Show help for beginning users" category="_byOe49xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiNtxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.history.switch_branch" commandName="Switch branch of History" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiN9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.hideShowEditors" commandName="Toggle Editor Area Visibility" description="Toggles the visibility of the editor area" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiONxPEeSX--wpJ-qMuw" elementId="com.aptana.samples.ui.commands.import" commandName="Import sample as project..." category="_byOe3dxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byRiOdxPEeSX--wpJ-qMuw" elementId="id" name="Sample ID"/>
+  </commands>
+  <commands xmi:id="_byRiOtxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.command.diagnostic" commandName="Run Diagnostic Test..." description="Runs Diagnostic Test" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiO9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.help.displayHelp" commandName="Display Help" description="Display a Help topic" category="_byOe49xPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byRiPNxPEeSX--wpJ-qMuw" elementId="href" name="Help topic href"/>
+  </commands>
+  <commands xmi:id="_byRiPdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.folding.restore" commandName="Reset Structure" description="Resets the folding structure" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiPtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.pageDown" commandName="Select Page Down" description="Select to the bottom of the page" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiP9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.toggleSearchSelection" commandName="Toggle Search Selection" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiQNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.join.lines" commandName="Join Lines" description="Join lines of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiQdxPEeSX--wpJ-qMuw" elementId="org.eclipse.help.ui.indexcommand" commandName="Index" description="Show Keyword Index" category="_byOe49xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiQtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.showContextMenu" commandName="Show Context Menu" description="Show the context menu" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiQ9xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.compare_with_revision" commandName="Compare With Revision..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiRNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.forward" commandName="Forward" description="Navigate forward" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiRdxPEeSX--wpJ-qMuw" elementId="org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals" commandName="Quick Fix" description="Suggest possible fixes for a problem" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiRtxPEeSX--wpJ-qMuw" elementId="com.aptana.deploy.commands.deployApp" commandName="Deploy App" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiR9xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.unstash" commandName="Unstash" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiSNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.nextPerspective" commandName="Next Perspective" description="Switch to the next perspective" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiSdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.pinEditor" commandName="Pin Editor" description="Pin the current editor" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiStxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.nextTab" commandName="Next Tab" description="Switch to the next tab" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiS9xPEeSX--wpJ-qMuw" elementId="com.aptana.editor.js.openDeclaration" commandName="Open Declaration" description="Open a selected JS element's declaration" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiTNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.quickAccess" commandName="Quick Access" description="Quickly access UI elements" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiTdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.showInformation" commandName="Show Tooltip Description" description="Displays information for the current caret location in a focused hover" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiTtxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.disconnect" commandName="Disconnect" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byRiT9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.pageUp" commandName="Page Up" description="Go up one page" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJMNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.columnPrevious" commandName="Previous Column" description="Go to the previous column" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJMdxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.toggleMemoryMonitorsPane" commandName="Toggle Memory Monitors Pane" description="Toggle visibility of the Memory Monitors Pane" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJMtxPEeSX--wpJ-qMuw" elementId="org.eclipse.compare.selectNextChange" commandName="Select Next Change" description="Select Next Change" category="_byOe4NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJM9xPEeSX--wpJ-qMuw" elementId="com.aptana.editor.common.gotoMatchingBracket" commandName="Goto Matching Bracket" description="Goto Matching Bracket" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJNNxPEeSX--wpJ-qMuw" elementId="com.aptana.ide.syncing.ui.commands.upload" commandName="Upload..." category="_byOe0dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJNdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ltk.ui.refactoring.commands.renameResource" commandName="Rename Resource" description="Rename the selected resource and notify LTK participants." category="_byOe29xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJNtxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.mobile.command.package.android.module" commandName="Package - Android Module" category="_byOe39xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJN9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.properties" commandName="Properties" description="Display the properties of the selected item" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJONxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.showRulerAnnotationInformation" commandName="Show Ruler Annotation Tooltip" description="Displays annotation information for the caret line in a focused hover" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJOdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar" commandName="Show Find Bar" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJOtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.browser.openBrowser" commandName="Open Browser" description="Opens the default web browser." category="_byOe4dxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_bySJO9xPEeSX--wpJ-qMuw" elementId="url" name="URL"/>
+    <parameters xmi:id="_bySJPNxPEeSX--wpJ-qMuw" elementId="browserId" name="Browser Id"/>
+    <parameters xmi:id="_bySJPdxPEeSX--wpJ-qMuw" elementId="name" name="Browser Name"/>
+    <parameters xmi:id="_bySJPtxPEeSX--wpJ-qMuw" elementId="tooltip" name="Browser Tooltip"/>
+  </commands>
+  <commands xmi:id="_bySJP9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.activeContextInfo" commandName="Show activeContext Info" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJQNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.textStart" commandName="Select Text Start" description="Select to the beginning of the text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJQdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.contentAssist.contextInformation" commandName="Context Information" description="Show Context Information" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJQtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.saveAs" commandName="Save As" description="Save the current contents to another location" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJQ9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.previousPerspective" commandName="Previous Perspective" description="Switch to the previous perspective" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJRNxPEeSX--wpJ-qMuw" elementId="com.aptana.webserver.command.delete_server" commandName="Delete Server" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJRdxPEeSX--wpJ-qMuw" elementId="com.aptana.index.core.ui.commands.include" commandName="Include in build" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJRtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.collapseAll" commandName="Collapse All" description="Collapse the current tree" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJR9xPEeSX--wpJ-qMuw" elementId="org.eclipse.compare.copyAllRightToLeft" commandName="Copy All from Right to Left" description="Copy All Changes from Right to Left" category="_byOe4NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJSNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.command.nextpage" commandName="Next Page of Memory" description="Load next page of memory" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJSdxPEeSX--wpJ-qMuw" elementId="com.aptana.terminal.commands.openTerminal" commandName="Open Terminal" category="_byN3wdxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJStxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.command.gotoaddress" commandName="Go to Address" description="Go to Address" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJS9xPEeSX--wpJ-qMuw" elementId="com.aptana.ide.syncing.ui.commands.synchronize.project" commandName="Synchronize Project..." category="_byOe0dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJTNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.maximizePart" commandName="Maximize Active View or Editor" description="Toggles maximize/restore state of active view or editor" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJTdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.lockToolBar" commandName="Lock the Toolbars" description="Lock the Toolbars" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJTtxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.attach" commandName="Initialize Git repository" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJT9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.newEditor" commandName="New Editor" description="Open another editor on the active editor's input" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJUNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.Disconnect" commandName="Disconnect" description="Disconnect" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJUdxPEeSX--wpJ-qMuw" elementId="org.eclipse.search.ui.openSearchDialog" commandName="Open Search Dialog" description="Open the Search dialog" category="_byOe1NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJUtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.contentAssist.proposals" commandName="Content Assist" description="Content Assist" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJU9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.up" commandName="Up" description="Navigate up one level" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJVNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.activateEditor" commandName="Activate Editor" description="Activate the editor" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJVdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.removeFromWorkingSet" commandName="Remove From Working Set" description="Removes the selected object from a working set." category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJVtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.delete.line.to.end" commandName="Delete to End of Line" description="Delete to the end of a line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJV9xPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.ui.ide.update.command.customInstallTitanium" commandName="Install Titanium SDK..." description="Install Titanium SDK from either a URL or an update stream" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJWNxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.github.network" commandName="Show Github Network" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJWdxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.Terminate" commandName="Terminate" description="Terminate" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJWtxPEeSX--wpJ-qMuw" elementId="org.eclipse.help.ui.ignoreMissingPlaceholders" commandName="Do not warn of missing documentation" description="Sets the help preferences to no longer report a warning about the current set of missing documents." category="_byOe49xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJW9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.ide.deleteCompleted" commandName="Delete Completed Tasks" description="Delete the tasks marked as completed" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJXNxPEeSX--wpJ-qMuw" elementId="org.eclipse.compare.compareWithOther" commandName="Compare With Other Resource" description="Compare resources, clipboard contents or editors" category="_byOe4NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJXdxPEeSX--wpJ-qMuw" elementId="com.aptana.ide.syncing.ui.commands.newconnection" commandName="Add New Connection..." category="_byOe0dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJXtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.editors.revisions.author.toggle" commandName="Toggle Revision Author Display" description="Toggles the display of the revision author" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJX9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.windowEnd" commandName="Window End" description="Go to the end of the window" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJYNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.perspectives.showPerspective" commandName="Show Perspective" description="Show a particular perspective" category="_byOe2dxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_bySJYdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.perspectives.showPerspective.perspectiveId" name="Parameter"/>
+    <parameters xmi:id="_bySJYtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.perspectives.showPerspective.newWindow" name="In New Window"/>
+  </commands>
+  <commands xmi:id="_bySJY9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.openEditorDropDown" commandName="Quick Switch Editor" description="Open the editor drop down list" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJZNxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.blame" commandName="Blame" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJZdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.line" commandName="Go to Line" description="Go to a specified line of text" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySJZtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.editors.quickdiff.revert" commandName="Revert Lines" description="Revert the current selection, block or deleted lines" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwQNxPEeSX--wpJ-qMuw" elementId="com.aptana.ide.syncing.ui.commands.synchronize" commandName="Transfer Files..." category="_byOe0dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwQdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.deleteNextWord" commandName="Delete Next Word" description="Delete the next word" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwQtxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.common.scripting.commands.FilterThroughCommand" commandName="Filter Through Command" description="Filter Through Command" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwQ9xPEeSX--wpJ-qMuw" elementId="com.aptana.ui.command.viewreleasenotes" commandName="View Release Notes..." description="View the Release Notes for Titanium Studio" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwRNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.lineUp" commandName="Select Line Up" description="Extend the selection to the previous line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwRdxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.NextEditorCommand" commandName="Next Editor (Titanium Studio)" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwRtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.undo" commandName="Undo" description="Undo the last operation" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwR9xPEeSX--wpJ-qMuw" elementId="com.aptana.ui.command.preferences" commandName="Preferences" category="_byOe4txPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_bySwSNxPEeSX--wpJ-qMuw" elementId="preferencePageId" name="Page ID" optional="false"/>
+  </commands>
+  <commands xmi:id="_bySwSdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.cut.line.to.end" commandName="Cut to End of Line" description="Cut to the end of a line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwStxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.io.commands.compareWithEachOther" commandName="Each Other" description="Compare the Selected Files" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwS9xPEeSX--wpJ-qMuw" elementId="org.eclipse.compare.copyLeftToRight" commandName="Copy from Left to Right" description="Copy Current Change from Left to Right" category="_byOe4NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwTNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.newQuickMenu" commandName="New menu" description="Open the New menu" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwTdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.project.openProject" commandName="Open Project" description="Open a project" category="_byN3w9xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwTtxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.actions.WatchCommand" commandName="Watch" description="Create a watch expression from the current selection and add it to the Expressions view" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwT9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.openWorkspace" commandName="Switch Workspace" description="Open the workspace selection dialog" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwUNxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.mobile.command.package.mobileweb" commandName="Package - Mobile Web" category="_byOe39xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwUdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.closeAll" commandName="Close All" description="Close all editors" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwUtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.cut" commandName="Cut" description="Cut the selection to the clipboard" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwU9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.findNext" commandName="Find Next" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwVNxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.commit" commandName="Commit..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwVdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.showOptions" commandName="Show Find Bar Options" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwVtxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.switch_branch" commandName="Switch Branch..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwV9xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.merge_conflicts" commandName="Merge Conflicts..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwWNxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.ui.commands.analytics.open" commandName="View Analytics" description="Launch the analytics page for the application" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwWdxPEeSX--wpJ-qMuw" elementId="com.aptana.theme.command.open_pref" commandName="Open Theme Preferences" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwWtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.project.properties" commandName="Properties" description="Display the properties of the selected item's project " category="_byN3w9xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwW9xPEeSX--wpJ-qMuw" elementId="com.aptana.samples.ui.commands.help" commandName="View Help..." category="_byOe3dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwXNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.columnPrevious" commandName="Select Previous Column" description="Select the previous column" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwXdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly" commandName="Show Selected Element Only" description="Show Selected Element Only" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwXtxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.ui.ide.update.command.updateTitanium" commandName="Check for Titanium Updates" description="Checks for Titanium Updates and prompts user to update accordingly" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwX9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.export" commandName="Export" description="Export" category="_byOe3txPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_bySwYNxPEeSX--wpJ-qMuw" elementId="exportWizardId" name="Export Wizard"/>
+  </commands>
+  <commands xmi:id="_bySwYdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ltk.ui.refactoring.commands.deleteResources" commandName="Delete Resources" description="Delete the selected resources and notify LTK participants." category="_byOe29xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwYtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.print" commandName="Print" description="Print" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwY9xPEeSX--wpJ-qMuw" elementId="com.aptana.ui.command.reportbug" commandName="Report Bug..." description="Report a ticket on Titanium Studio" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwZNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.toggleSearchBackward" commandName="Toggle Search Backward" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwZdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.focusReplace" commandName="Find Bar Focus Replace" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwZtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.showRulerContextMenu" commandName="Show Ruler Context Menu" description="Show the context menu for the ruler" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwZ9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.ide.copyConfigCommand" commandName="Copy Configuration Data To Clipboard" description="Copies the configuration data (system properties, installed bundles, etc) to the clipboard." category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwaNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.folding.collapse" commandName="Collapse" description="Collapses the folded region at the current selection" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwadxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.smartEnterInverse" commandName="Insert Line Above Current Line" description="Adds a new line above the current line" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwatxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.forwardHistory" commandName="Forward History" description="Move forward in the editor navigation history" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwa9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.spy" commandName="Show Contributing Plug-in" description="Shows contribution information for the currently selected element" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwbNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.help.helpSearch" commandName="Help Search" description="Open the help search" category="_byOe49xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwbdxPEeSX--wpJ-qMuw" elementId="org.eclipse.search.ui.performTextSearchProject" commandName="Find Text in Project" description="Searches the files in the project for specific text." category="_byOe1NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwbtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.lineDown" commandName="Line Down" description="Go down one line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwb9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.project.rebuildAll" commandName="Rebuild All" description="Rebuild all projects" category="_byN3w9xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwcNxPEeSX--wpJ-qMuw" elementId="com.aptana.samples.ui.commands.collapseall" commandName="Collapse All" category="_byOe3dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwcdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition" commandName="Last Edit Location" description="Last edit location" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwctxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.revert" commandName="Revert" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwc9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.open.hyperlink" commandName="Open Hyperlink" description="Opens the hyperlink at the caret location or opens a chooser if more than one hyperlink is available" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwdNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.command.prevpage" commandName="Previous Page of Memory" description="Load previous page of memory" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwddxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.openLocalFile" commandName="Open File..." description="Open a file" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwdtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.ide.configureFilters" commandName="Configure Contents..." description="Configure the filters to apply to the markers view" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_bySwd9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.previousTab" commandName="Previous Tab" description="Switch to the previous tab" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXUNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.dialogs.openMessageDialog" commandName="Open Message Dialog" description="Open a Message Dialog" category="_byOe2NxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byTXUdxPEeSX--wpJ-qMuw" elementId="title" name="Title"/>
+    <parameters xmi:id="_byTXUtxPEeSX--wpJ-qMuw" elementId="message" name="Message"/>
+    <parameters xmi:id="_byTXU9xPEeSX--wpJ-qMuw" elementId="imageType" name="Image Type Constant" typeId="org.eclipse.ui.dialogs.Integer"/>
+    <parameters xmi:id="_byTXVNxPEeSX--wpJ-qMuw" elementId="defaultIndex" name="Default Button Index" typeId="org.eclipse.ui.dialogs.Integer"/>
+    <parameters xmi:id="_byTXVdxPEeSX--wpJ-qMuw" elementId="buttonLabel0" name="First Button Label"/>
+    <parameters xmi:id="_byTXVtxPEeSX--wpJ-qMuw" elementId="buttonLabel1" name="Second Button Label"/>
+    <parameters xmi:id="_byTXV9xPEeSX--wpJ-qMuw" elementId="buttonLabel2" name="Third Button Label"/>
+    <parameters xmi:id="_byTXWNxPEeSX--wpJ-qMuw" elementId="buttonLabel3" name="Fourth Button Label"/>
+    <parameters xmi:id="_byTXWdxPEeSX--wpJ-qMuw" elementId="cancelReturns" name="Return Value on Cancel"/>
+  </commands>
+  <commands xmi:id="_byTXWtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.lineEnd" commandName="Line End" description="Go to the end of the line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXW9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.refresh" commandName="Refresh" description="Refresh the selected items" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXXNxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.ftp.command.add" commandName="Add New FTP Site..." category="_byOe0NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXXdxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.alloy.new.migration" commandName="Alloy Migration" description="Create a new Alloy migration" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXXtxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.acs.new.service" commandName="New Node.ACS Method/Service" description="Creates a new Node.ACS Service (first call on non-Node.ACS projects) or Method (projects with Node.ACS)" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXX9xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.create_branch" commandName="Create Branch..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXYNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.RunLast" commandName="Run" description="Launch in run mode" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXYdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.closeAllPerspectives" commandName="Close All Perspectives" description="Close all open perspectives" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXYtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.externalTools.commands.OpenExternalToolsConfigurations" commandName="External Tools..." description="Open external tools launch configuration dialog" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXY9xPEeSX--wpJ-qMuw" elementId="com.aptana.index.core.ui.commands.exclude" commandName="Exclude from build" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXZNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.deletePrevious" commandName="Delete Previous" description="Delete the previous character" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXZdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.lineStart" commandName="Select Line Start" description="Select to the beginning of the line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXZtxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.unstage" commandName="Unstage" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXZ9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.editors.lineNumberToggle" commandName="Show Line Numbers" description="Toggle display of line numbers" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXaNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.columnNext" commandName="Select Next Column" description="Select the next column" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXadxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.view_pull_request" commandName="View Pull Request..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXatxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.acs.unpublish" commandName="Unpublish" description="Unpublish the Node.ACS app" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXa9xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.TerminateAndRelaunch" commandName="Terminate and Relaunch" description="Terminate and Relaunch" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXbNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.searchInWorkspace" commandName="Search in Workspace" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXbdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.lineDown" commandName="Select Line Down" description="Extend the selection to the next line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXbtxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.RemoveAllBreakpoints" commandName="Remove All Breakpoints" description="Removes all breakpoints" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXb9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.showKeyAssist" commandName="Show Key Assist" description="Show the key assist dialog" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXcNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.lowerCase" commandName="To Lower Case" description="Changes the selection to lower case" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXcdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.save" commandName="Save" description="Save the current contents" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXctxPEeSX--wpJ-qMuw" elementId="org.eclipse.team.ui.applyPatch" commandName="Apply Patch..." description="Apply a patch to one or more workspace projects." category="_byN3wNxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXc9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.help.tipsAndTricksAction" commandName="Tips and Tricks" description="Open the tips and tricks help page" category="_byOe49xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXdNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.lineEnd" commandName="Select Line End" description="Select to the end of the line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXddxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.smartEnter" commandName="Insert Line Below Current Line" description="Adds a new line below the current line" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXdtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.lineStart" commandName="Line Start" description="Go to the start of the line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXd9xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.stage" commandName="Stage" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXeNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.wordPrevious" commandName="Select Previous Word" description="Select the previous word" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXedxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.pull_from_remote" commandName="Pull from Remote..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXetxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.Suspend" commandName="Suspend" description="Suspend" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXe9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.hippieCompletion" commandName="Word Completion" description="Context insensitive completion" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXfNxPEeSX--wpJ-qMuw" elementId="org.eclipse.team.ui.synchronizeLast" commandName="Repeat last synchronization" description="Repeat the last synchronization" category="_byN3wNxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXfdxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.StepOver" commandName="Step Over" description="Step over" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXftxPEeSX--wpJ-qMuw" elementId="org.eclipse.compare.selectPreviousChange" commandName="Select Previous Change" description="Select Previous Change" category="_byOe4NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXf9xPEeSX--wpJ-qMuw" elementId="com.aptana.portal.ui.command.newProjectFromTemplate" commandName="Create Project From Template" description="Create a new project from a template" category="_byOe2txPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byTXgNxPEeSX--wpJ-qMuw" elementId="newWizardId" name="New Wizard ID" optional="false"/>
+    <parameters xmi:id="_byTXgdxPEeSX--wpJ-qMuw" elementId="projectTemplateId" name="Project Template ID"/>
+  </commands>
+  <commands xmi:id="_byTXgtxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.common.toggleMarkOccurrences" commandName="Mark Occurrences" description="Toggle mark occurrences" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXg9xPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.merge_pull_request" commandName="Merge Pull Request..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXhNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.ide.configureColumns" commandName="Configure Columns..." description="Configure the columns in the markers view" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXhdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.exit" commandName="Exit" description="Exit the application" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXhtxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.ui.commands.OpenPackageConfigurations" commandName="Configurations..." category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXh9xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.DebugLast" commandName="Debug" description="Launch in debug mode" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXiNxPEeSX--wpJ-qMuw" elementId="com.aptana.webserver.command.stop_server" commandName="Stop Server" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXidxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.common.commands.toggleOutline" commandName="Show/Hide Outline" description="Toggle to show or hide Outline view" category="_byN3wdxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXitxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.previousView" commandName="Previous View" description="Switch to the previous view" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXi9xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.addMemoryMonitor" commandName="Add Memory Block" description="Add memory block" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXjNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.findbar.findPrevious" commandName="Find Previous" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byTXjdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.selectAll" commandName="Select All" description="Select all" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-YNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.DropToFrame" commandName="Drop to Frame" description="Drop to Frame" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-YdxPEeSX--wpJ-qMuw" elementId="com.aptana.ide.syncing.ui.commands.uncloak" commandName="Uncloak this file type" category="_byOe0dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-YtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.folding.expand" commandName="Expand" description="Expands the folded region at the current selection" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-Y9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.project.rebuildProject" commandName="Rebuild Project" description="Rebuild the selected projects" category="_byN3w9xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-ZNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.nextMemoryBlock" commandName="Next Memory Monitor" description="Show renderings from next memory monitor." category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-ZdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.copyLineDown" commandName="Copy Lines" description="Duplicates the selected lines and moves the selection to the copy" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-ZtxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.alloy.new.style" commandName="Alloy Style" description="Create a new Alloy style" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-Z9xPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.ui.showConfigWizard" commandName="Open Platforms Configuration Wizard" category="_byOe4txPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byT-aNxPEeSX--wpJ-qMuw" elementId="shell" name="Platforms Configure Wizard Shell" typeId="com.appcelerator.titanium.ui.commandParameterType.configureShell" optional="false"/>
+  </commands>
+  <commands xmi:id="_byT-adxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.acs.set.cname" commandName="Set CNAME" description="Sets the CNAME for the published app" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-atxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.help.installationDialog" commandName="Installation Information" description="Open the installation dialog" category="_byOe49xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-a9xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.ToggleStepFilters" commandName="Use Step Filters" description="Toggles enablement of debug step filters" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-bNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.lineUp" commandName="Line Up" description="Go up one line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-bdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.goto.windowStart" commandName="Window Start" description="Go to the start of the window" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-btxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.alloy.new.controller" commandName="Alloy Controller" description="Create a new Alloy controller" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-b9xPEeSX--wpJ-qMuw" elementId="com.aptana.ide.syncing.ui.commands.synchronize.files" commandName="Synchronize..." category="_byOe0dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-cNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.eof" commandName="EOF" description="Send end of file" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-cdxPEeSX--wpJ-qMuw" elementId="com.aptana.preview.commands.showPreview" commandName="Show Preview" description="Show Preview Editor" category="_byOe2txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-ctxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.showInQuickMenu" commandName="Show In..." description="Open the Show In menu" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-c9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.copyLineUp" commandName="Duplicate Lines" description="Duplicates the selected lines and leaves the selection unchanged" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-dNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.ToggleMethodBreakpoint" commandName="Toggle Method Breakpoint" description="Creates or removes a method breakpoint" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-ddxPEeSX--wpJ-qMuw" elementId="com.aptana.webserver.command.start_server" commandName="Start Server" category="_byOe4txPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byT-dtxPEeSX--wpJ-qMuw" elementId="mode" name="mode" optional="false"/>
+  </commands>
+  <commands xmi:id="_byT-d9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.next" commandName="Next" description="Navigate to the next item" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-eNxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.add_remote" commandName="Add Remote..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-edxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.closePerspective" commandName="Close Perspective" description="Close the current perspective" category="_byOe4dxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byT-etxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.closePerspective.perspectiveId" name="Perspective Id"/>
+  </commands>
+  <commands xmi:id="_byT-e9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.cheatsheets.openCheatSheetURL" commandName="Open Cheat Sheet from URL" description="Open a Cheat Sheet from file at a specified URL." category="_byOe49xPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byT-fNxPEeSX--wpJ-qMuw" elementId="cheatSheetId" name="Identifier" optional="false"/>
+    <parameters xmi:id="_byT-fdxPEeSX--wpJ-qMuw" elementId="name" name="Name" optional="false"/>
+    <parameters xmi:id="_byT-ftxPEeSX--wpJ-qMuw" elementId="url" name="URL" optional="false"/>
+  </commands>
+  <commands xmi:id="_byT-f9xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.StepReturn" commandName="Step Return" description="Step return" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-gNxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.commands.ExpandLevel" commandName="Expand to Level" description="Expand to Level" category="_byN3wdxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byT-gdxPEeSX--wpJ-qMuw" elementId="level" name="Level"/>
+  </commands>
+  <commands xmi:id="_byT-gtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.browser.openBundleResource" commandName="Open Resource in Browser" description="Opens a bundle resource in the default web browser." category="_byOe4dxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byT-g9xPEeSX--wpJ-qMuw" elementId="plugin" name="Plugin"/>
+    <parameters xmi:id="_byT-hNxPEeSX--wpJ-qMuw" elementId="path" name="Path"/>
+  </commands>
+  <commands xmi:id="_byT-hdxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.rebase_branch" commandName="Rebase..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-htxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.help.aboutAction" commandName="About" description="Open the about dialog" category="_byOe49xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-h9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.closeAllSaved" commandName="Close All Saved" description="Close all saved editors" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-iNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.redo" commandName="Redo" description="Redo the last operation" category="_byOe09xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-idxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.mobile.command.package.android" commandName="Distribute - Android App Store" category="_byOe39xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-itxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.selectWorkingSets" commandName="Select Working Sets" description="Select the working sets that are applicable for this window." category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-i9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.newWizard" commandName="New" description="Open the New item wizard" category="_byOe3txPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byT-jNxPEeSX--wpJ-qMuw" elementId="newWizardId" name="New Wizard"/>
+  </commands>
+  <commands xmi:id="_byT-jdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.newWindow" commandName="New Window" description="Open another window" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-jtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.file.close" commandName="Close" description="Close the active editor" category="_byOe3txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-j9xPEeSX--wpJ-qMuw" elementId="org.eclipse.equinox.p2.ui.sdk.install" commandName="Install New Software..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-kNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.window.customizePerspective" commandName="Customize Perspective" description="Customize the current perspective" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-kdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar" commandName="Run Last Launched External Tool" description="Runs the last launched external Tool" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-ktxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.moveLineUp" commandName="Move Lines Up" description="Moves the selected lines up" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-k9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.previousSubTab" commandName="Previous Sub-Tab" description="Switch to the previous sub-tab" category="_byOe3NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-lNxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.pull" commandName="Pull" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-ldxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.alloy.ui.openJS" commandName="Controller File" description="Open the Controller File" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-ltxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.create_pull_request" commandName="Create Pull Request..." category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byT-l9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.showIn" commandName="Show In" category="_byOe3NxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byT-mNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.showIn.targetId" name="Show In Target Id" optional="false"/>
+  </commands>
+  <commands xmi:id="_byT-mdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.dialogs.openInputDialog" commandName="Open Input Dialog" description="Open an Input Dialog" category="_byOe2NxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byT-mtxPEeSX--wpJ-qMuw" elementId="title" name="Title"/>
+    <parameters xmi:id="_byUlcNxPEeSX--wpJ-qMuw" elementId="message" name="Message"/>
+    <parameters xmi:id="_byUlcdxPEeSX--wpJ-qMuw" elementId="initialValue" name="Initial Value"/>
+    <parameters xmi:id="_byUlctxPEeSX--wpJ-qMuw" elementId="cancelReturns" name="Return Value on Cancel"/>
+  </commands>
+  <commands xmi:id="_byUlc9xPEeSX--wpJ-qMuw" elementId="org.eclipse.compare.copyRightToLeft" commandName="Copy from Right to Left" description="Copy Current Change from Right to Left" category="_byOe4NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byUldNxPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.commands.OpenProfileConfigurations" commandName="Profile..." description="Open profile launch configuration dialog" category="_byOe19xPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byUlddxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.ide.markCompleted" commandName="Mark Completed" description="Mark the selected tasks as completed" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byUldtxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.recenter" commandName="Recenter" description="Recenter the window based on the cursor" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byUld9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.select.windowStart" commandName="Select Window Start" description="Select to the start of the window" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byUleNxPEeSX--wpJ-qMuw" elementId="com.aptana.editor.js.quick_outline" commandName="Quick Outline" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byUledxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.alloy.ui.openTSS" commandName="Style File" description="Open the Style File" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byUletxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.command.showInResourceHistory" commandName="Show in Resource History" category="_byN3wtxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byUle9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.edit.text.scroll.lineDown" commandName="Scroll Line Down" description="Scroll down one line of text" category="_byOe1txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byUlfNxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.ToggleCoolbarAction" commandName="Toggle Toolbar Visibility" description="Toggles the visibility of the window toolbar" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byUlfdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.navigate.openResource" commandName="Open Resource" description="Open an editor on a particular resource" category="_byOe3NxPEeSX--wpJ-qMuw">
+    <parameters xmi:id="_byUlftxPEeSX--wpJ-qMuw" elementId="filePath" name="File Path" typeId="org.eclipse.ui.ide.resourcePath"/>
+  </commands>
+  <commands xmi:id="_byUlf9xPEeSX--wpJ-qMuw" elementId="com.aptana.editor.toggleWordWrapCommand" commandName="Word Wrap" category="_byOe4dxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_byUlgNxPEeSX--wpJ-qMuw" elementId="org.eclipse.compare.copyAllLeftToRight" commandName="Copy All from Left to Right" description="Copy All Changes from Left to Right" category="_byOe4NxPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b2tWMNxPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.mobile.command.install.blackberry" commandName="com.appcelerator.titanium.mobile.command.install.blackberry"/>
+  <commands xmi:id="_b27_sNxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.s3.command.add" commandName="com.aptana.ui.s3.command.add"/>
+  <commands xmi:id="_b6lJkNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.browser.actionSet/com.aptana.browser.ShowBrowserEditorAction" commandName="Web Browser Editor" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7MNkNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.js.debug.ui.actionSet/com.aptana.js.debug.ui.actions.Watch" commandName="Watch" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7M0oNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.js.debug.ui.actionSet/com.aptana.js.debug.ui.actions.AddExceptionBreakpoint" commandName="Add JavaScript Exception Breakpoint..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7M0odxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.js.debug.ui.actionSet/com.aptana.js.debug.ui.actions.ToggleBreakpoint" commandName="Toggle breakpoint on selected line" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7M0otxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.js.debug.ui.actionSet/com.aptana.js.debug.ui.actions.openURL" commandName="Open URL..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7M0o9xPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.terminal.actionSet/com.aptana.terminal.ShowTerminalEditorAction" commandName="Terminal Editor" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7M0pNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.chromium.debug.ui.actionSets/org.chromium.debug.ui.actions.AddExceptionBreakpointAction" commandName="Add Node.ACS JavaScript Exception Breakpoint" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7P38NxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.launchActionSet/org.eclipse.debug.internal.ui.actions.RunWithConfigurationAction" commandName="Run As" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7P38dxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.launchActionSet/org.eclipse.debug.internal.ui.actions.RunHistoryMenuAction" commandName="Run History" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7P38txPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.launchActionSet/org.eclipse.debug.internal.ui.actions.RunDropDownAction" commandName="Run" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7P389xPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.launchActionSet/org.eclipse.debug.internal.ui.actions.DebugWithConfigurationAction" commandName="Debug As" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7P39NxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.launchActionSet/org.eclipse.debug.internal.ui.actions.DebugHistoryMenuAction" commandName="Debug History" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7P39dxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.launchActionSet/org.eclipse.debug.internal.ui.actions.DebugDropDownAction" commandName="Debug" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7QfANxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.profileActionSet/org.eclipse.debug.internal.ui.actions.ProfileDropDownAction" commandName="Profile" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7QfAdxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.profileActionSet/org.eclipse.debug.internal.ui.actions.ProfileWithConfigurationAction" commandName="Profile As" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7QfAtxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.profileActionSet/org.eclipse.debug.internal.ui.actions.ProfileHistoryMenuAction" commandName="Profile History" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7QfA9xPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.ui.cheatsheets.actionSet/org.eclipse.ui.cheatsheets.actions.CheatSheetHelpMenuAction" commandName="Cheat Sheets..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7QfBNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.search.searchActionSet/org.eclipse.search.OpenSearchDialogPage" commandName="Search..." description="Search" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7RGENxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.team.ui.actionSet/org.eclipse.team.ui.synchronizeAll" commandName="Synchronize..." description="Synchronize..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7RGEdxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.team.ui.actionSet/org.eclipse.team.ui.ConfigureProject" commandName="Share Project..." description="Share the project with others using a version and configuration management system." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7RGEtxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.ui.externaltools.ExternalToolsSet/org.eclipse.ui.externaltools.ExternalToolMenuDelegateMenu" commandName="External Tools" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7RtINxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.js.debug.ui.BreakpointRulerActions/com.aptana.js.debug.ui.actions.htmlDoubleClickBreakpointAction" commandName="Toggle Breakpoint" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7RtIdxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.js.debug.ui.BreakpointRulerActions/com.aptana.js.debug.ui.actions.jsDoubleClickBreakpointAction" commandName="Toggle Breakpoint" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7RtItxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.js.debug.ui.BreakpointRulerActions/com.aptana.js.debug.ui.actions.phpDoubleClickBreakpointAction" commandName="Toggle Breakpoint" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7RtI9xPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.ui.texteditor.ruler.actions/org.eclipse.ui.texteditor.BookmarkRulerAction" commandName="Text Editor Bookmark Ruler Action" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7RtJNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.ui.texteditor.ruler.actions/org.eclipse.ui.texteditor.SelectRulerAction" commandName="Text Editor Ruler Single-Click" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7SUMNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.debug.ui.variableViewContribution/com.aptana.debug.ui.variableViewActions.DetailOptions" commandName="JavaScript Detail Formatters..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7SUMdxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.debug.ui.variableViewContribution/com.aptana.debug.ui.variableViewActions.ShowConstants" commandName="Show Constants" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7SUMtxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.debug.ui.expressionViewContribution/com.aptana.debug.ui.variableViewActions.DetailOptions" commandName="JavaScript Detail Formatters..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7SUM9xPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.debug.ui.expressionViewContribution/com.aptana.debug.ui.variableViewActions.ShowConstants" commandName="Show Constants" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7SUNNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::com.aptana.debug.ui.expressionViewContribution/org.eclipse.debug.ui.expressionViewActions.AddWatchExpression" commandName="Add Watch Expression" description="Create a new watch expression" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7S7QNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.PulldownActions/org.eclipse.debug.ui.debugview.pulldown.ViewManagementAction" commandName="View Management..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7S7QdxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.debugview.toolbar/org.eclipse.debug.ui.debugview.toolbar.removeAllTerminated" commandName="Remove All Terminated" description="Remove All Terminated Launches" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7S7QtxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.breakpointsview.toolbar/org.eclipse.debug.ui.breakpointsView.toolbar.removeAll" commandName="Remove All" description="Remove All Breakpoints" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7S7Q9xPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.breakpointsview.toolbar/org.eclipse.debug.ui.breakpointsView.toolbar.linkWithDebugView" commandName="Link with Debug View" description="Link with Debug View" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7S7RNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.breakpointsview.toolbar/org.eclipse.debug.ui.breakpointsView.toolbar.workingSets" commandName="Working Sets..." description="Manage Working Sets" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7S7RdxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.breakpointsview.toolbar/org.eclipse.debug.ui.breakpointsView.toolbar.clearDefaultBreakpointGroup" commandName="Deselect Default Working Set" description="Deselect Default Working Set" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7S7RtxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.breakpointsview.toolbar/org.eclipse.debug.ui.breakpointsView.toolbar.setDefaultBreakpointGroup" commandName="Select Default Working Set..." description="Select Default Working Set" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7TiUNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.breakpointsview.toolbar/org.eclipse.debug.ui.breakpointsView.toolbar.groupByAction" commandName="Group By" description="Show" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7TiUdxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.expressionsView.toolbar/org.eclipse.debug.ui.expresssionsView.toolbar.removeAll" commandName="Remove All" description="Remove All Expressions" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7TiUtxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.expressionsView.toolbar/org.eclipse.debug.ui.expresssionsView.toolbar.AddWatchExpression" commandName="Add Watch Expression..." description="Create a new watch expression" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7TiU9xPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.PinMemoryBlockAction" commandName="Pin Memory Monitor" description="Pin Memory Monitor" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7TiVNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.NewMemoryViewAction" commandName="New Memory View" description="New Memory View" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7TiVdxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.togglemonitors" commandName="Toggle Memory Monitors Pane" description="Toggle Memory Monitors Pane" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7TiVtxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.linkrenderingpanes" commandName="Link Memory Rendering Panes" description="Link Memory Rendering Panes" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7TiV9xPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.tablerendering.preferencesaction" commandName="Table Renderings Preferences..." description="&amp;Table Renderings Preferences..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7TiWNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.togglesplitpane" commandName="Toggle Split Pane" description="Toggle Split Pane" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7UJYNxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.switchMemoryBlock" commandName="Switch Memory Monitor" description="Switch Memory Monitor" category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <commands xmi:id="_b7UJYdxPEeSX--wpJ-qMuw" elementId="AUTOGEN:::org.eclipse.debug.ui.memoryView.toolbar/org.eclipse.debug.ui.memoryViewPreferencesAction" commandName="Preferences..." description="&amp;Preferences..." category="_byOe4txPEeSX--wpJ-qMuw"/>
+  <addons xmi:id="_bx5uuNxPEeSX--wpJ-qMuw" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
+  <addons xmi:id="_bx5uudxPEeSX--wpJ-qMuw" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
+  <addons xmi:id="_bx5uutxPEeSX--wpJ-qMuw" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
+  <addons xmi:id="_bx5uu9xPEeSX--wpJ-qMuw" elementId="org.eclipse.e4.ui.workbench.commands.model" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.CommandProcessingAddon"/>
+  <addons xmi:id="_bx5uvNxPEeSX--wpJ-qMuw" elementId="org.eclipse.e4.ui.workbench.contexts.model" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.ContextProcessingAddon"/>
+  <addons xmi:id="_bx5uvdxPEeSX--wpJ-qMuw" elementId="org.eclipse.e4.ui.workbench.bindings.model" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.swt/org.eclipse.e4.ui.workbench.swt.util.BindingProcessingAddon"/>
+  <addons xmi:id="_bx5uvtxPEeSX--wpJ-qMuw" elementId="Cleanup Addon" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.cleanupaddon.CleanupAddon"/>
+  <addons xmi:id="_bx5uv9xPEeSX--wpJ-qMuw" elementId="DnD Addon" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.dndaddon.DnDAddon"/>
+  <addons xmi:id="_bx5uwNxPEeSX--wpJ-qMuw" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
+  <addons xmi:id="_bx5uwdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
+  <categories xmi:id="_byN3wNxPEeSX--wpJ-qMuw" elementId="org.eclipse.team.ui.category.team" name="Team" description="Actions that apply when working with a Team"/>
+  <categories xmi:id="_byN3wdxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
+  <categories xmi:id="_byN3wtxPEeSX--wpJ-qMuw" elementId="com.aptana.git.ui.category" name="Git"/>
+  <categories xmi:id="_byN3w9xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.category.project" name="Project"/>
+  <categories xmi:id="_byOe0NxPEeSX--wpJ-qMuw" elementId="com.aptana.ui.ftp.category" name="FTP"/>
+  <categories xmi:id="_byOe0dxPEeSX--wpJ-qMuw" elementId="com.aptana.ide.syncing.ui.commands.category" name="File Transfer" description="File Transfer Commands"/>
+  <categories xmi:id="_byOe0txPEeSX--wpJ-qMuw" elementId="com.aptana.org.eclipse.tm.terminal.category1" name="Terminal view commands" description="%terminal.view.insertion.description"/>
+  <categories xmi:id="_byOe09xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.category.edit" name="Edit"/>
+  <categories xmi:id="_byOe1NxPEeSX--wpJ-qMuw" elementId="org.eclipse.search.ui.category.search" name="Search" description="Search command category"/>
+  <categories xmi:id="_byOe1dxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.ide.markerContents" name="Contents" description="The category for menu contents"/>
+  <categories xmi:id="_byOe1txPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.category.textEditor" name="Text Editing" description="Text Editing Commands"/>
+  <categories xmi:id="_byOe19xPEeSX--wpJ-qMuw" elementId="org.eclipse.debug.ui.category.run" name="Run/Debug" description="Run/Debug command category"/>
+  <categories xmi:id="_byOe2NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.category.dialogs" name="Dialogs" description="Commands for opening dialogs"/>
+  <categories xmi:id="_byOe2dxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.category.perspectives" name="Perspectives" description="Commands for opening perspectives"/>
+  <categories xmi:id="_byOe2txPEeSX--wpJ-qMuw" elementId="com.aptana.ui.category" name="Studio"/>
+  <categories xmi:id="_byOe29xPEeSX--wpJ-qMuw" elementId="org.eclipse.ltk.ui.category.refactoring" name="Refactoring"/>
+  <categories xmi:id="_byOe3NxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.category.navigate" name="Navigate"/>
+  <categories xmi:id="_byOe3dxPEeSX--wpJ-qMuw" elementId="com.aptana.samples.ui.category" name="Studio Samples"/>
+  <categories xmi:id="_byOe3txPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.category.file" name="File"/>
+  <categories xmi:id="_byOe39xPEeSX--wpJ-qMuw" elementId="com.appcelerator.titanium.mobile.category" name="Titanium"/>
+  <categories xmi:id="_byOe4NxPEeSX--wpJ-qMuw" elementId="org.eclipse.compare.ui.category.compare" name="Compare" description="Compare command category"/>
+  <categories xmi:id="_byOe4dxPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.category.window" name="Window"/>
+  <categories xmi:id="_byOe4txPEeSX--wpJ-qMuw" elementId="org.eclipse.core.commands.categories.autogenerated" name="Uncategorized" description="Commands that were either auto-generated or have no category"/>
+  <categories xmi:id="_byOe49xPEeSX--wpJ-qMuw" elementId="org.eclipse.ui.category.help" name="Help"/>
+</application:Application>

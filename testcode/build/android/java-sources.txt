@@ -1,0 +1,7 @@
+"C:/Users/Seth/Documents/Titanium_Studio_Workspace/testcode/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/Seth/Documents/Titanium_Studio_Workspace/testcode/build/android/gen/com/test/ApplicationStylesheet.java"
+"C:/Users/Seth/Documents/Titanium_Studio_Workspace/testcode/build/android/gen/com/test/R.java"
+"C:/Users/Seth/Documents/Titanium_Studio_Workspace/testcode/build/android/gen/com/test/TestcodeActivity.java"
+"C:/Users/Seth/Documents/Titanium_Studio_Workspace/testcode/build/android/gen/com/test/TestcodeAppInfo.java"
+"C:/Users/Seth/Documents/Titanium_Studio_Workspace/testcode/build/android/gen/com/test/TestcodeApplication.java"
+"C:/Users/Seth/Documents/Titanium_Studio_Workspace/testcode/build/android/gen/ti/modules/titanium/ui/R.java"
