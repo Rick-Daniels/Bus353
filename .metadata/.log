@@ -39,3 +39,12 @@ Command-line arguments:  -os win32 -ws win32 -arch x86
 
 !ENTRY com.appcelerator.titanium.ui.ide 4 0 2015-04-06 04:24:37.034
 !MESSAGE (Build 3.4.1.201410281727) [ERROR] com.appcelerator.titanium.core/debug/dashboard Unknown SDK iphone
+
+!ENTRY org.eclipse.core.jobs 4 2 2015-04-06 04:26:37.598
+!MESSAGE An internal error occurred during: "Sending Analytics Ping ...".
+!STACK 0
+java.lang.NullPointerException
+	at com.aptana.usage.internal.DefaultAnalyticsEventHandler.getAnalyticsLogger(DefaultAnalyticsEventHandler.java:207)
+	at com.aptana.usage.internal.DefaultAnalyticsEventHandler.sendEventSync(DefaultAnalyticsEventHandler.java:241)
+	at com.aptana.usage.internal.DefaultAnalyticsEventHandler$1.run(DefaultAnalyticsEventHandler.java:75)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
